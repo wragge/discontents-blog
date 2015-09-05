@@ -305,6 +305,6 @@ It’s a task that needs to be both playful and political. It’s not about maki
 
 &nbsp;
 <h5>Permalink</h5>
-[su_permalink id="2541"][/su_permalink]
-<h6>Internet Archive</h6>
+[permalink wpid="2541"]
+<h5>Internet Archive</h5>
 [acf field="internet_archive"]
