@@ -304,5 +304,7 @@ Writing, making, thinking, playing, sharing. It all happens together. I’m a ma
 It’s a task that needs to be both playful and political. It’s not about making things, but trying to make a difference.
 
 &nbsp;
+<h5>Permalink</h5>
+[su_permalink id="2541"][/su_permalink]
 <h6>Internet Archive</h6>
 [acf field="internet_archive"]
