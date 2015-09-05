@@ -11,47 +11,43 @@ published: true
 tmac_last_id:
   - "640027563591532544"
 ---
-With a bit of time to play over Christmas I had a go at applying some of the techniques described at [*ProgrammingHistorian*][1] to the [ADB Online][2].  I thought it might be interesting to create some word clouds, both for what they could reveal about the content of the ADB, and to see what they had to offer as a way of improving access to the articles. So I set about learning Python and was soon downloading and scraping the more than 10,000 articles that make up the ADB online. My first tests revealed that the most frequent words in ADB articles were... <p style="text-align: center;">
-  <strong>born</strong> and <strong>died</strong>
-</p>
+With a bit of time to play over Christmas I had a go at applying some of the techniques described at <a href="http://niche.uwo.ca/programming-historian/index.php"><em>ProgrammingHistorian</em></a> to the <a href="http://www.adb.online.anu.edu.au/adbonline.htm">ADB Online</a>.  I thought it might be interesting to create some word clouds, both for what they could reveal about the content of the ADB, and to see what they had to offer as a way of improving access to the articles.
 
-<p style="text-align: left;">
-  Who'd have thought it? In a biographical dictionary?
-</p>
+So I set about learning Python and was soon downloading and scraping the more than 10,000 articles that make up the ADB online.
 
-<p style="text-align: left;">
-  After further refining the stopwords list I started to generate some useful clouds. Finally after 147 minutes of processing time, I had a <a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-complete.html">word cloud</a> representing the content of all 16 volumes of the <em>Australian Dictionary of Biography</em>.
-</p>
+My first tests revealed that the most frequent words in ADB articles were...
+<p style="text-align: center;"><strong>born</strong> and <strong>died</strong></p>
+<p style="text-align: left;">Who'd have thought it? In a biographical dictionary?</p>
+<p style="text-align: left;">After further refining the stopwords list I started to generate some useful clouds. Finally after 147 minutes of processing time, I had a <a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-complete.html">word cloud</a> representing the content of all 16 volumes of the <em>Australian Dictionary of Biography</em>.</p>
+<p style="text-align: left;"></p>
 
-<p style="text-align: left;">
-</p> [caption id="attachment_559" align="aligncenter" width="300" caption="The complete ADB word cloud"]
 
-[<img class="size-medium wp-image-559" title="adb-cloud-complete" src="http://discontents.com.au/wp-content/uploads/2009/01/adb-cloud-complete-300x195.jpg" alt="The complete ADB word cloud" width="300" height="195" />][3][/caption] <p style="text-align: left;">
-  <!--more-->The words in the cloud are linked back to the ADB's own search engine, allowing the cloud to be used as a way of exploring the articles themselves.
-</p>
+[caption id="attachment_559" align="aligncenter" width="300" caption="The complete ADB word cloud"]<a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-complete.html"><img class="size-medium wp-image-559" title="adb-cloud-complete" src="http://discontents.com.au/wp-content/uploads/2009/01/adb-cloud-complete-300x195.jpg" alt="The complete ADB word cloud" width="300" height="195" /></a>[/caption]
+<p style="text-align: left;"><!--more-->The words in the cloud are linked back to the ADB's own search engine, allowing the cloud to be used as a way of exploring the articles themselves.</p>
+<p style="text-align: left;">It shows the top 200 words, but if you want to see the rest you can download the <a href="http://discontents.com.au/shed/adb/clouds/wordfreqs.txt">raw word frequency file</a> (&gt;1mb txt file).</p>
+<p style="text-align: left;">What can you see? Amongst other things, John is obviously the most popular name, Sydney just edges out Melbourne as the most popular place, and burial beats cremation as the most common mode of dispatch. It's fun to explore.</p>
+<p style="text-align: left;">But of course this then set me wondering about how these frequencies might change with the development of the ADB and changes in its subjects. So I generated word clouds for <a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-vols.html">each volume</a> and for <a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-series.html">each chronological series</a>.</p>
+<p style="text-align: left;"></p>
 
-<p style="text-align: left;">
-  It shows the top 200 words, but if you want to see the rest you can download the <a href="http://discontents.com.au/shed/adb/clouds/wordfreqs.txt">raw word frequency file</a> (>1mb txt file).
-</p>
 
-<p style="text-align: left;">
-  What can you see? Amongst other things, John is obviously the most popular name, Sydney just edges out Melbourne as the most popular place, and burial beats cremation as the most common mode of dispatch. It's fun to explore.
-</p>
+[caption id="attachment_563" align="aligncenter" width="300" caption="Word clouds by volume"]<a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-vols.html"><img class="size-medium wp-image-563" title="adb-cloud-volumes" src="http://discontents.com.au/wp-content/uploads/2009/01/adb-cloud-volumes-300x195.jpg" alt="Word clouds by volume" width="300" height="195" /></a>[/caption]
 
-<p style="text-align: left;">
-  But of course this then set me wondering about how these frequencies might change with the development of the ADB and changes in its subjects. So I generated word clouds for <a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-vols.html">each volume</a> and for <a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-series.html">each chronological series</a>.
-</p>
+[caption id="attachment_564" align="aligncenter" width="300" caption="Word clouds by series"]<a href="http://discontents.com.au/shed/adb/clouds/adb-word-clouds-series.html"><img class="size-medium wp-image-564" title="adb-cloud-series" src="http://discontents.com.au/wp-content/uploads/2009/01/adb-cloud-series-300x195.jpg" alt="Word clouds by series" width="300" height="195" /></a>[/caption]
+<p style="text-align: left;"></p>
 
-<p style="text-align: left;">
-</p> [caption id="attachment_563" align="aligncenter" width="300" caption="Word clouds by volume"]
+I even added some simple Javascript slideshows so you could watch the clouds evolve.
 
-[<img class="size-medium wp-image-563" title="adb-cloud-volumes" src="http://discontents.com.au/wp-content/uploads/2009/01/adb-cloud-volumes-300x195.jpg" alt="Word clouds by volume" width="300" height="195" />][4][/caption] [caption id="attachment_564" align="aligncenter" width="300" caption="Word clouds by series"][<img class="size-medium wp-image-564" title="adb-cloud-series" src="http://discontents.com.au/wp-content/uploads/2009/01/adb-cloud-series-300x195.jpg" alt="Word clouds by series" width="300" height="195" />][5][/caption] <p style="text-align: left;">
-</p> I even added some simple Javascript slideshows so you could watch the clouds evolve. One of the most obvious features in the series clouds is the gradual disappearance of 'land'. It's one of the most prominent words in the first series, but gradually fades until it disappears completely in the last. After this successful foray into the world of word clouds, I began to think about other ways of visualising the ADB's content. Many of the articles have portrait images, wouldn't it be interesting to use the images themselves as the entry point to the biographical articles? I'd already been 
+One of the most obvious features in the series clouds is the gradual disappearance of 'land'. It's one of the most prominent words in the first series, but gradually fades until it disappears completely in the last.
 
-[playing with CoolIris][6], so I decided to harvest all the portrait references and use them to create a 3D wall. The [result is pretty spectacular][7]. [caption id="attachment_569" align="aligncenter" width="300" caption="ADB portrait browser"][<img class="size-medium wp-image-569" title="gallery" src="http://discontents.com.au/wp-content/uploads/2009/01/gallery-300x66.jpg" alt="ADB prtrait browser" width="300" height="66" />][7][/caption] Some technical details about the clouds and the portrait browser follow, for those interested in such things... 
-### Gathering your words Conveniently
+After this successful foray into the world of word clouds, I began to think about other ways of visualising the ADB's content. Many of the articles have portrait images, wouldn't it be interesting to use the images themselves as the entry point to the biographical articles?
 
-* *for me,* ProgrammingHistorian* uses the *Dictionary of Canadian Biography* as its main example, so there was much code that I could <span style="text-decoration: line-through;">just cut and paste</span> carefully examine and utilise. As the examples show, it's easy to grab a webpage and analyse its content on the fly. But I wanted to process more than 10,000 pages and I knew that I was unlikely to get it working the first time round, so I decided to download the files first and then work on them locally. PH provided a basic example, to which I added some error-handling and the necessary loops to cycle through the ADB files. Because I had a bit of inside knowledge I cheated and hard-coded the numbers of articles in each volume. If I hadn't known this I would have had to scrape all the browse pages, pulling out the links and creating a list in individual ids – not hard, but a bit tedious. Anyway this is how it ended up: 
+I'd already been <a href="http://discontents.com.au/shoebox/archives-shoebox/archives-in-3d">playing with CoolIris</a>, so I decided to harvest all the portrait references and use them to create a 3D wall. The <a href="http://discontents.com.au/shed/adb/portraits/adb-portrait-browser.html">result is pretty spectacular</a>.
+
+[caption id="attachment_569" align="aligncenter" width="300" caption="ADB portrait browser"]<a href="http://discontents.com.au/shed/adb/portraits/adb-portrait-browser.html"><img class="size-medium wp-image-569" title="gallery" src="http://discontents.com.au/wp-content/uploads/2009/01/gallery-300x66.jpg" alt="ADB prtrait browser" width="300" height="66" /></a>[/caption]
+
+Some technical details about the clouds and the portrait browser follow, for those interested in such things...
+<h3>Gathering your words</h3>
+Conveniently<em> </em>for me,<em> ProgrammingHistorian</em> uses the <em>Dictionary of Canadian Biography</em> as its main example, so there was much code that I could <span style="text-decoration: line-through;">just cut and paste</span> carefully examine and utilise.  As the examples show, it's easy to grab a webpage and analyse its content on the fly. But I wanted to process more than 10,000 pages and I knew that I was unlikely to get it working the first time round, so I decided to download the files first and then work on them locally. PH provided a basic example, to which I added some error-handling and the necessary loops to cycle through the ADB files. Because I had a bit of inside knowledge I cheated and hard-coded the numbers of articles in each volume. If I hadn't known this I would have had to scrape all the browse pages, pulling out the links and creating a list in individual ids – not hard, but a bit tedious. Anyway this is how it ended up:
 <pre>[sourcecode lang="python"]
 # download_adb.py
 
@@ -87,9 +83,8 @@ for v in range(0,18):
         else:
             print "File already downloaded"
         sys.stdout.flush()[/sourcecode]</pre>
-
-### Learning to count Before too long I had a directory full of about 11,000 little html files just waiting for me to begin my evil experiments. First I had to slice them up and pull out all the interesting bits. By examining the code of the pages I could see that the main content was inside a div with the id of 'content'. Using the Beautiful Soup Python library, I was easily able to extract this div. But the content div also usually included a portrait image and a bibliography. Once again I dipped into Beautiful Soup to discard all the unwanted bits. The slicing and dicing went something like this: 
-
+<h3>Learning to count</h3>
+Before too long I had a directory full of about 11,000 little html files just waiting for me to begin my evil experiments. First I had to slice them up and pull out all the interesting bits. By examining the code of the pages I could see that the main content was inside a div with the id of 'content'. Using the Beautiful Soup Python library, I was easily able to extract this div. But the content div also usually included a portrait image and a bibliography. Once again I dipped into Beautiful Soup to discard all the unwanted bits. The slicing and dicing went something like this:
 <pre>[sourcecode language="python"]
     g = open(dir + '/' + file, 'r')
     html = g.read()
@@ -106,17 +101,17 @@ for v in range(0,18):
     for para in paras:
         para.extract()
     footer[0].extract()
-    content = soup.findAll(id="content")[/sourcecode]</pre> Now I had the text of the article to play with. Following the PH examples it wasn't long before I could extract word-frequency tables from a few files at a time. However, when I tried to process all the articles from a particular volume it took a verrry long time. I fiddled a bit with the code and amazed myself by dramatically improving the performance. I replaced the 
-
-*wordListToFreqDict* function provided by PH with my own modified version: 
+    content = soup.findAll(id="content")[/sourcecode]</pre>
+Now I had the text of the article to play with. Following the PH examples it wasn't long before I could extract word-frequency tables from a few files at a time. However, when I tried to process all the articles from a particular volume it took a verrry long time. I fiddled a bit with the code and amazed myself by dramatically improving the performance. I replaced the <em>wordListToFreqDict</em> function provided by PH with my own modified version:
 <pre>[sourcecode language="python"]
 def wordListToFreqDict2(wordlist):
     worddict = dict.fromkeys(wordlist)
     wordfreq = [wordlist.count(p) for p in worddict.keys()]
     return dict(zip(worddict,wordfreq))
-[/sourcecode]</pre> The 
+[/sourcecode]</pre>
+The <code>worddict = dict.fromkeys(wordlist)</code> line made all the difference, creating a list of unique words that could then be checked against the full word list.  With this hack in place I was able to process a complete volume in a few minutes.
 
-`worddict = dict.fromkeys(wordlist)` line made all the difference, creating a list of unique words that could then be checked against the full word list. With this hack in place I was able to process a complete volume in a few minutes. I was already using a list of stopwords provided by PH to exclude things such as 'such' , 'as' and 'and', but obviously a few additions were necessary. To the list of stopwords I added: 
+I was already using a list of stopwords provided by PH to exclude things such as 'such' , 'as' and 'and', but obviously a few additions were necessary. To the list of stopwords I added:
 <pre>[sourcecode language="python"]
 stopwords += ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december']
 stopwords += ['new', 'south', 'wales', 'australia', 'australian', 'victoria', 'south', 'western', 'queensland', 'tasmania']
@@ -124,8 +119,10 @@ stopwords += ['new', 'south', 'wales', 'australia', 'australian', 'victoria', 's
 stopwords += ['died', 'born', 'life', 'lived', 'married', 'father', 'wife', 'children', 'son', 'sons', 'daughter', 'daughters', 'brother', 'brothers']
 stopwords += ['street', 'st', 'year', 'years', 'months', 'acre', 'acres', 'ha']
 stopwords += ['e', 'm', 'b', 'c', 'w', 'j', 'd', 'n', 'f', 'g', 'h', 'i', 'ii', 'l', 'o', 'p', 'th', 'r', 't', 'u', 'r', 'nd']
-[/sourcecode]</pre> The first two lines should be pretty obvious. As you can see, I originally excluded names of the capital cities, but then realised that you could watch Sydney and Melbourne battle it out for pre-eminence, so I excluded the exclusion. Also out were family relations and various other words that turned up in almost every article. Cleaning out all the non-alphabetical characters from the text had left a lot of orphaned letters that had once been things like £ signs, so I had to dispose of them as well. The modules for actually generating the clouds were mostly just copied from PH with a few minor changes. My complete script is here: 
+[/sourcecode]</pre>
+The first two lines should be pretty obvious. As you can see, I originally excluded names of the capital cities, but then realised that you could watch Sydney and Melbourne battle it out for pre-eminence, so I excluded the exclusion. Also out were family relations and various other words that turned up in almost every article. Cleaning out all the non-alphabetical characters from the text had left a lot of orphaned letters that had once been things like £ signs, so I had to dispose of them as well.
 
+The modules for actually generating the clouds were mostly just copied from PH with a few minor changes. My complete script is here:
 <pre>[sourcecode language="python"]
 # adb-text-count.py
 
@@ -185,7 +182,7 @@ sys.stdout.flush()
 for k in resorteddict:
     kfreq = k[0]
     klabel = k[1]
-    klabel = dh.undecoratedHyperlink('http://adbonline.anu.edu.au/scripts/adbp-ent_search.php?ranktext=' + k[1] + '&search=Go!', k[1])
+    klabel = dh.undecoratedHyperlink('http://adbonline.anu.edu.au/scripts/adbp-ent_search.php?ranktext=' + k[1] + '&amp;search=Go!', k[1])
     scalingfactor = (kfreq - minfreq) / float(freqrange)
     outstring += ' ' + dh.scaledFontSizeSpan(klabel, scalingfactor) + ' '
 dh.wrapStringInHTML("html-to-tag-cloud", dh.defaultCSSDiv(outstring), "Complete")
@@ -193,9 +190,12 @@ finish = time.time()
 print "Finished at: ", time.asctime(time.localtime(finish))
 print "Total time: ", finish - start
 [/sourcecode]</pre>
+<h3>Biographies in 3D</h3>
+To display all the portrait images in CoolIris I had to harvest all the image details and then write them to a Media RSS file for CoolIris to read.
 
-### Biographies in 3D To display all the portrait images in CoolIris I had to harvest all the image details and then write them to a Media RSS file for CoolIris to read. Extracting the details of all the thumbnail versions of the portraits in the ADB was easy using Beautiful Soup. But I also need the paths to the larger versions of the portraits stored on the sites of the repositories that hold the originals. All of these sites present the images differently, so a different scraper was needed for each of them. As yet I've only included major libraries and archives – I may add some more if I get the time. Once the paths to the thumbnails and large versions had been harvested, it was just a matter of writing the RSS feed. Actually, I created a series of RSS files, one for each volume, linked using 'rel=previous' and 'rel=next' attributes. This helped speed up the loading of the gallery. For what it's worth, the complete code is here: 
+Extracting the details of all the thumbnail versions of the portraits in the ADB was easy using Beautiful Soup. But I also need the paths to the larger versions of the portraits stored on the sites of the repositories that hold the originals. All of these sites present the images differently, so a different scraper was needed for each of them. As yet I've only included major libraries and archives – I may add some more if I get the time.
 
+Once the paths to the thumbnails and large versions had been harvested, it was just a matter of writing the RSS feed. Actually, I created a series of RSS files, one for each volume, linked using 'rel=previous' and 'rel=next' attributes. This helped speed up the loading of the gallery. For what it's worth, the complete code is here:
 <pre>[sourcecode language="python"]
 # adb-portraits.py
 
@@ -214,22 +214,15 @@ for i in range(8,18):
     filelist = dh.getFileNamesByVol2(dir, vol)
     f = open('adb-portraits-%s.rss' % i, 'w')
     f.write("<?xml version='1.0' encoding='utf-8' standalone='yes'?>n")
-    f.write("&lt;rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/' xmlns:atom='http://www.w3.org/2005/Atom'>n")
-    f.write("&lt;channel>n")
-    f.write("
-
-<title>
-  ADB Online Portrait Browser
-</title>n")
-    f.write("&lt;description>Portraits of individuals included in the Australian Dictionary of Biography&lt;/description>n")
-    f.write ("
-
-<link />
-http://www.adb.online.anu.edu.au&lt;/link>n")
+    f.write("<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/' xmlns:atom='http://www.w3.org/2005/Atom'>n")
+    f.write("<channel>n")
+    f.write("<title>ADB Online Portrait Browser</title>n")
+    f.write("<description>Portraits of individuals included in the Australian Dictionary of Biography</description>n")
+    f.write ("<link>http://www.adb.online.anu.edu.au</link>n")
     if (i > 1):
-        f.write ("&lt;atom:link rel='previous' href='adb-portraits-%s.rss' />" % (i-1))
-    if (i &lt; 17):
-        f.write ("&lt;atom:link rel='next' href='adb-portraits-%s.rss' />" % (i+1))
+        f.write ("<atom:link rel='previous' href='adb-portraits-%s.rss' />" % (i-1))
+    if (i < 17):
+        f.write ("<atom:link rel='next' href='adb-portraits-%s.rss' />" % (i+1))
     for file in filelist:
         print str(file)
         sys.stdout.flush()
@@ -304,32 +297,18 @@ http://www.adb.online.anu.edu.au&lt;/link>n")
                     img = re.search('http://[wd/.]*.jpg', img).group()
                     repository = "State Library of Queensland"
                 if (len(img) > 0):
-                    f.write("&lt;item>n")
-                    f.write("&lt;guid isPermaLink='false'>%s&lt;/guid>n" % id)
-                    f.write("
-<title>
-  %s -- %s
-</title>n" % (title, repository))
-                    f.write("
-
-<link />
-http://www.adb.online.anu.edu.au/biogs/%sb.htm&lt;/link>n" % id)
-                    f.write("&lt;media:thumbnail url='%s' />n" % thumbnail.replace('&','&'))
-                    f.write("&lt;media:content url='%s' type='image/jpeg' />n" % img.replace('&','&'))
-                    f.write("&lt;/item>n")
+                    f.write("<item>n")
+                    f.write("<guid isPermaLink='false'>%s</guid>n" % id)
+                    f.write("<title>%s -- %s</title>n" % (title, repository))
+                    f.write("<link>http://www.adb.online.anu.edu.au/biogs/%sb.htm</link>n" % id)
+                    f.write("<media:thumbnail url='%s' />n" % thumbnail.replace('&','&amp;'))
+                    f.write("<media:content url='%s' type='image/jpeg' />n" % img.replace('&','&amp;'))
+                    f.write("</item>n")
                     f.flush()
                     print "Success!"
                     sys.stdout.flush()
                 img = ""
-    f.write("&lt;/channel>n")
-    f.write("&lt;/rss>n")
+    f.write("</channel>n")
+    f.write("</rss>n")
     f.close()
 [/sourcecode]</pre>
-
- [1]: http://niche.uwo.ca/programming-historian/index.php
- [2]: http://www.adb.online.anu.edu.au/adbonline.htm
- [3]: http://discontents.com.au/shed/adb/clouds/adb-word-clouds-complete.html
- [4]: http://discontents.com.au/shed/adb/clouds/adb-word-clouds-vols.html
- [5]: http://discontents.com.au/shed/adb/clouds/adb-word-clouds-series.html
- [6]: http://discontents.com.au/shoebox/archives-shoebox/archives-in-3d
- [7]: http://discontents.com.au/shed/adb/portraits/adb-portrait-browser.html

@@ -32,6 +32,4 @@ external_link:
 tmac_last_id:
   - "640027508637724672"
 ---
-Meanwhile over on the Trove blog [I posted about 'In a word'][1] -- my quick experiment with all the lovely Radio National data now available in Trove.
-
- [1]: http://www.nla.gov.au/blogs/trove/2014/05/01/whats-in-a-word
+Meanwhile over on the Trove blog <a href="http://www.nla.gov.au/blogs/trove/2014/05/01/whats-in-a-word">I posted about 'In a word'</a> -- my quick experiment with all the lovely Radio National data now available in Trove.

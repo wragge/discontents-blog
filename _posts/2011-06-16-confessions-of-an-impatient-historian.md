@@ -11,9 +11,8 @@ published: true
 tmac_last_id:
   - "640027545274941440"
 ---
-Here's the slides from the talk I gave recently in the [Scholars' Lab][1] at the University of Virginia. Thanks to everyone who came and to the Scholars' Lab for their hospitality. A podcast version [is now available][2]. <div style="width:425px" id="__ss_8251073">
-  <iframe src="http://www.slideshare.net/slideshow/embed_code/8251073" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/wragge/confessionspdf" title="Confessions of an impatient historian">View on SlideShare</a></strong>
-</div>
+Here's the slides from the talk I gave recently in the <a href="http://www.scholarslab.org/">Scholars' Lab</a> at the University of Virginia. Thanks to everyone who came and to the Scholars' Lab for their hospitality.
 
- [1]: http://www.scholarslab.org/
- [2]: http://www.scholarslab.org/podcasts/tim-sherratt-confessions-of-an-impatient-historian/
+A podcast version <a href="http://www.scholarslab.org/podcasts/tim-sherratt-confessions-of-an-impatient-historian/">is now available</a>.
+
+<div style="width:425px" id="__ss_8251073"><iframe src="http://www.slideshare.net/slideshow/embed_code/8251073" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/wragge/confessionspdf" title="Confessions of an impatient historian">View on SlideShare</a></strong></div>

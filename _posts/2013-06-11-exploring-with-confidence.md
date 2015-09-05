@@ -26,7 +26,8 @@ unlink_post_image:
 builder_switch_frontend:
   - "0"
 ---
-Here's the video of my talk at the [2013 Australian Digital Alliance Copyright Forum][1] on 1 March 2013. http://youtu.be/TA8sVZOwCiE Or if you'd prefer the bizarro version you can read YouTube's [automatic captions][2].
+Here's the video of my talk at the <a href="http://digital.org.au/content/2013-australian-digital-alliance-copyright-forum">2013 Australian Digital Alliance Copyright Forum</a> on 1 March 2013.
 
- [1]: http://digital.org.au/content/2013-australian-digital-alliance-copyright-forum
- [2]: https://gist.github.com/wragge/5755845
+http://youtu.be/TA8sVZOwCiE
+
+Or if you'd prefer the bizarro version you can read YouTube's <a href="https://gist.github.com/wragge/5755845">automatic captions</a>.
