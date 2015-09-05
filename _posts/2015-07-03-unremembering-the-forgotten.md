@@ -302,5 +302,3 @@ It’s a task that needs to be both playful and political. It’s not about maki
 &nbsp;
 
 &nbsp;
-
-Archived at [acf field="internet_archive"]
