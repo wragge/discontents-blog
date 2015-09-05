@@ -7,7 +7,7 @@ post_excerpt: ""
 layout:
   - default
 permalink: >
-  http://discontents.com.au/unremembering-the-forgotten
+  http://discontents.com.au/unremembering-the-forgotten/
 published: true
 content_width:
   - default_width
@@ -30,12 +30,16 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640042682547482625"
+  - "640103138079326208"
 internet_archive:
   - >
     https://web.archive.org/web/20150905062506/http://discontents.com.au/unremembering-the-forgotten
 custom_permalink:
   - unremembering-the-forgotten
+doi:
+  - ""
+github:
+  - ""
 ---
 <em>Keynote presented at DH2015, 3 July 2015. Full slides <a href="http://www.slideshare.net/wragge/unremembering-the-forgotten">available</a> on SlideShare.</em>
 
@@ -300,5 +304,5 @@ Writing, making, thinking, playing, sharing. It all happens together. I’m a ma
 It’s a task that needs to be both playful and political. It’s not about making things, but trying to make a difference.
 
 &nbsp;
-
-&nbsp;
+<h6>Internet Archive</h6>
+[acf field="internet_archive"]
