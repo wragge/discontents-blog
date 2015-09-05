@@ -1,0 +1,137 @@
+---
+ID: 1726
+post_title: Local heroes
+author: Tim Sherratt
+post_date: 2012-05-12 22:32:55
+post_excerpt: ""
+layout: post
+permalink: http://discontents.com.au/local-heroes/
+published: true
+tmac_last_id:
+  - "640027534084673536"
+---
+Earlier this week it was announced that the Mosman Library had been awarded a Library Development Grant for an <a href="http://www.mosman.nsw.gov.au/news/2012/05/09/grant-for-great-war-project">innovative project</a> that aims to document stories and artefacts relating to the First World War. I'm very excited to be part of it. As well as working with the local community in the creation of a new resource, the project offers an interesting opportunity to explore how we can link in with the ever-increasing volume of WWI material <a href="http://lod-lam.net/summit/">being published as linked data</a> around the world.
+
+But thinking about this new project has also made me reflect again on the creation of <a href="http://mappingouranzacs.naa.gov.au/">Mapping Our Anzacs</a> -- a project that still fills me with great pride and immense frustration. I thought I might as well finally post a couple of things I wrote about the project back in 2009. They're a bit out of date, but I think there's still a few useful lessons to be gleaned.
+
+The first is a case-study that focuses on the crowdsourcing aspects of <em>Mapping Our Anzacs</em>. The second looks at the project as an example of a mashup. Thanks to <a href="http://archivesnext.com">Kate Theimer</a> for initiating and publishing both pieces.
+
+&nbsp;
+
+<hr />
+
+<h2>Bringing life to records</h2>
+2009 preprint version of case-study originally published in Kate Theimer (ed), <em>A Different Kind of Web: New Connections between Archives and Our Users</em>, Society of American Archivists, Chicago, 2011. [<a href="http://saa.archivists.org/4DCGI/store/item.html?Action=StoreItem&amp;Item=2218&amp;LoginPref=1">Order here</a>]
+<h5>Overview of repository</h5>
+The <a href="http://www.naa.gov.au/">National Archives of Australia</a> is responsible for preserving and making accessible the records of the Commonwealth of Australia. It employs more than 400 staff, with offices in Canberra and every state capital. Its holdings include more than 360 shelf km of records – around 69 million items. Through its digitisation program more than 1.6 million items have been fully digitised, making nearly 20 million digital images available online. The National Archives’ website now provides the main point of access for researchers, with more than 2 million images viewed through the online database <a href="http://www.naa.gov.au/collection/using/search/">RecordSearch</a> in the year 2007–8.
+<h5>Business drivers</h5>
+Most people now experience the collections of the National Archives of Australia online. With an obligation to provide ‘an accessible, and interpreted, national archival collection’ the Archives is looking to new technologies to enhance access and improve efficiency.
+
+The idea for <em>Mapping</em><em> </em><em>our</em><em> </em><em>Anzacs</em> arose during planning for a <a href="http://www.naa.gov.au/visit-us/exhibitions/shell-shocked.aspx">travelling exhibition</a> on the impact of World War I, timed to coincide with the 90<sup>th</sup> anniversary of the war’s end. Public interest in commemorating Australia’s war effort was as strong as ever, so a website that encouraged local participation seemed a useful way of extending the exhibition and its accompanying education program.
+
+The major focus of both the exhibition and the website was to be the <a href="http://www.naa.gov.au/collection/explore/defence/service-records/army-wwi.aspx">376,000 service records</a> documenting the experiences of Australian men and women during World War I held by the National Archives. These records had been fully digitised and described as part of a major project entitled ‘A Gift to the Nation’, but were still somewhat buried within our collection database.
+
+<em>Mapping</em><em> </em><em>our</em><em> </em><em>Anzacs</em> was intended to highlight these records and open them up to local communities. First a map interface would allow service records to be discovered by place of birth or enlistment. Secondly, users would be able to add tributes – online versions of the war memorials that remain a feature of just about every town, large or small.
+
+While the exhibition and the records themselves provided the main drivers for the project, there was also a growing desire within the institution to explore some of the possibilities of Web 2.0 technologies. This desire was tempered somewhat by a range of familiar concerns centred on issues of authority and control. Would user contributions detract from the reliability of the records? Who would take responsibility for any errors in user-created content? Would the potential for abuse demand vigilant moderation? <em>Mapping</em><em> </em><em>our</em><em> </em><em>Anzacs</em> gave us a chance to start working through such issues.
+<h5>Setting the stage</h5>
+We had an idea, a budget and a launch date, what we needed was a plan. While in theory we had around six months to play with, the project had to be fitted in around the ongoing work of our small web team. On the content side we had one person cleaning up the data. At the technical end we had someone connecting up the various components and making it all work within the Archives’ web environment. In the middle there were two of us trying to marry content and technology and create a usable resource. While we had a range of useful skills, none of us had tackled a project quite like this. We all had to learn on the job.
+
+With few models or examples to work from, we began to experiment – researching available technologies, throwing around possibilities. Our first efforts were largely focused on the map interface and before long we had a working prototype using javascript and Google Maps. But what we also needed was a better understanding of how users might interact with the site.
+
+[caption id="attachment_1729" align="alignright" width="250" caption="World War I Honour Roll at the Chiltern Atheneum Museum"]<a href="http://discontents.com.au/wp-content/uploads/2012/05/chiltern-museum.jpg"><img class="size-medium wp-image-1729" title="chiltern-museum" src="http://discontents.com.au/wp-content/uploads/2012/05/chiltern-museum-250x333.jpg" alt="" width="250" height="333" /></a>[/caption]
+
+We started from the idea of the online memorial – a list of names compiled by users that would be linked through to service records. Our example was a local historical society creating a site to commemorate their community’s war effort. But what if they had more information – photographs or family histories – how could this sort of material be incorporated? Further inspiration came from a visit to the local historical museum in the small Victorian town of Chiltern. On one wall was a typical roll of honour, listing the names of those who had served in the war. But underneath were framed portraits of many of those listed.<strong> </strong>They were people, not just records. Could we create something like this online?
+
+There were some exciting possibilities emerging, but concerns remained. Would anybody actually want to contribute? Strong interest in family history and a growing community desire to commemorate the experience of World War I offered anecdotal support. We just had to ensure that this interest could be translated into engagement – that the barriers of participation were low enough to encourage visitors to become collaborators.
+
+But what of concerns that such material might detract from the authority of the records, or open our institution up to liability? We needed to make it clear where public contributions began and archival data ended.
+
+Welcoming, but separate; open, but managed – a tricky balancing act was required. The answer, we decided was to create a separate ‘scrapbook’ using the blogging service Tumblr. The ‘scrapbook’ label was intended to be encouraging – this was not a database, or formal register, it was a place to leave your thoughts, comments, information or memorabilia. This was reinforced by our terms of service which simply required contributions to be relevant and respectful.
+
+[caption id="attachment_1733" align="alignright" width="250" caption="Scrapbook post"]<a href="http://discontents.com.au/wp-content/uploads/2012/05/moa_scrapbook_post.jpg"><img class="size-medium wp-image-1733" title="moa_scrapbook_post" src="http://discontents.com.au/wp-content/uploads/2012/05/moa_scrapbook_post-250x258.jpg" alt="" width="250" height="258" /></a>[/caption]
+
+A ‘scrapbook’ was also something quite different to a finding aid. The informality helped to make the boundary clear between record and response. The separation was physical as well as intellectual. While the scrapbook shared many of the design elements of the main site, it was hosted by Tumblr not the National Archives. By using the Tumblr API, however, it was easy to pass information between the two sites. We could also use the API to provide a basic moderation facility.
+
+But this meant that an important part of the site’s functionality would be dependent on an outside service. To make sure we considered fully all the implications of this, we developed a risk analysis and contacted Tumblr staff to inform them of our plans. Our major concern was simply the continuity of the service. While there could be no guarantees, we judged that this risk was manageable. Tumblr staff were interested in the project and offered their assistance if necessary.
+<h5>Results</h5>
+[caption id="attachment_1730" align="alignright" width="250" caption="Images from scrapbook posts viewed via a media RSS feed in CoolIris."]<a href="http://discontents.com.au/wp-content/uploads/2012/05/moa-cooliris.jpg"><img class="size-medium wp-image-1730" title="moa-cooliris" src="http://discontents.com.au/wp-content/uploads/2012/05/moa-cooliris-250x156.jpg" alt="" width="250" height="156" /></a>[/caption]
+
+On 25 April each year, Anzac Day, Australians remember the sacrifices made in war. Over the Anzac Day weekend in 2009, we were astonished to receive more than 200 <a href="http://our-anzacs.tumblr.com/">scrapbook</a> posts. Of course we had expected an increase in use, particularly after the site was featured on the Australian version of the Today Show, but this remarkable response certainly confirmed the site’s success. In the six months since its launch there had been almost 94,000 visitors to <em>Mapping</em><em> </em><em>our</em><em> </em><em>Anzacs</em>. More than 1,000 scrapbook posts had been contributed and 280 tributes created.
+
+But the greatest success was in <a href="http://our-anzacs.tumblr.com/archive">the type of posts</a> being contributed rather than their sheer volume. Our ‘scrapbook’ had proved to be just that – as well as photographs of service people and their families, there were pictures of medals, headstones, letters, newspaper clippings, pay books, identity disks, diaries, postcards and certificates. Some people simply commented ‘my grandfather’, while others wrote detailed accounts of family history. Perhaps most moving were those who took the opportunity to leave a message for their loved one: ‘You were the best dad’.
+
+[caption id="attachment_1736" align="alignright" width="250" caption="Scrapbook post"]<a href="http://discontents.com.au/wp-content/uploads/2012/05/moa_scrapbook_post51.jpg"><img class="size-medium wp-image-1736" title="moa_scrapbook_post5" src="http://discontents.com.au/wp-content/uploads/2012/05/moa_scrapbook_post51-250x236.jpg" alt="" width="250" height="236" /></a>[/caption]
+
+Some have taken a systematic approach. Our most frequent contributor is gradually attaching photographs of headstones and memorial plaques that she has gathered from local cemeteries. Others are posting their own contact details in the hope of linking up with family. Perhaps most interesting are the notes that provide links to other people or documents – to family members, for example, or to a later service record. These are helping build a rich web of contextual data. Equally valuable are the corrections and additions that are being offered by eagle-eyed users, pointing out transcription errors or helping us track down elusive locations.
+
+The success of the scrapbook has somewhat overshadowed the tributes, or online memorials, which really provided our starting point. Many tributes have been created and, as we had hoped, schools and other groups are using them to document the impact of war on their local communities. However, some compromises at the implementation stage have meant that it is not as easy to build them as we had hoped. There has also been some confusion by users between the tributes and the scrapbook. This is one area of the site we certainly hope to improve.
+
+Even though the digitised service records had been available online for sometime though our collection database, it’s clear that many people are discovering them for the first time through <em>Mapping</em><em> </em><em>our</em><em> </em><em>Anzacs</em>. It was ‘a stunning find for me and my siblings’ wrote one grateful user. The scrapbook has aided discovery, providing another way into the records. Indeed, with the addition of a MediaRSS feed for CoolIris, the scrapbook provides two new entry points – one of them a 3D wall of faces and families.<em> </em>By embedding the records in these new contexts and making them easier to find, <em>Mapping</em><em> </em><em>our</em><em> </em><em>Anzacs</em> has successfully garnered extra value from an existing asset.
+
+The site has also been recognised by others for its successful use of Web 2.0 technologies. We were pleased to be joint winners of the <a href="http://www.archivesnext.com/?p=270">Best Archives on the Web Award</a>, and surprised to be cited by the Federal Minister for Finance in a <a href="http://gov2.net.au/blog/2009/06/22/speech-launch-of-the-government-2-0-taskforce/index.html">speech launching a Gov 2.0 taskforce</a>. Recognition such as this has helped strengthen the case for future innovation in the Web 2.0 sphere.
+<h5>Challenges</h5>
+Success brings its own problems. One of the main challenges has been simply managing the sheer volume of posts and feedback. This was particularly acute of course after the Anzac Day deluge. As a result we have had to consider ways of streamlining our processes.
+
+The Tumblr API allows us to set the status of a new post as ‘private’. We can then examine the post using the Tumblr dashboard before making it public. This works well enough as a basic form of moderation, however, the dashboard is not really designed for this purpose and it takes several clicks to release each post to the world.
+
+But while moderation takes considerable time, it requires little intellectual effort. Despite concerns about abuse, our contributors have caused us few dilemmas. The only significant questions that have arisen concern the re-use of materials from other sources. This has made consider whether pre-emptive moderation is necessary or appropriate.
+
+While the site includes detailed help information, it’s clear from the feedback that there are certain aspects that continue to cause difficulty. This provides useful data on how the site might be improved, but it has also made us think about how we communicate with our users. At the moment the content we provide is fairly static – there is no way of informing visitors of recent updates, or developing quick guides to common problems. If we took a more active approach to communication we might be able to decrease the number of help requests, while building a greater sense of community.
+
+Similarly, while we have been excited by the number of corrections submitted by users, we can now see ways in which we might have structured the feedback process to capture their corrections more easily and efficiently. For example, a ‘submit a correction’ link on each individual’s page could automatically capture the person’s details, saving both us and our contributors from potential confusion.
+
+We have suffered through the expected number of software glitches, and have a growing list of things we’d like to improve or develop, but overall the experience has been much more rewarding than painful.
+<h5>Lessons Learned</h5>
+Perhaps the most valuable lessons revolve around trust. Having entered into the project uncertain of what to expect from public participation, we have found ourselves in an evolving, creative partnership. Our users have defined what the scrapbook is and have taken an active role in improving and developing the resource. Our trust has been repaid many times over, helping us build something that in many ways has exceeded our expectations.
+
+Trust is also necessary in the support of new ideas. <em>Mapping</em><em> </em><em>our</em><em> </em><em>Anzacs</em> was a very different type of project for the National Archives, challenging ideas both of access and user engagement. By taking the risk we have not only gained valuable publicity and user support, we have opened up the realm of possibilities for future development.
+
+In terms of technology, the project demonstrated the power of the mashup and the efficiencies that can be gained by using existing web services. Tumblr, Google Maps and their associated APIs gave us a kickstart that enabled us to do a lot with a little.
+<h5>Next Steps</h5>
+There are so many exciting possibilities! Obviously our first priority is to improve those areas of the site that continue to cause our users grief. There are a number of navigation and usability tweaks that should improve the overall experience. Similarly, we can now see ways in which we might streamline moderation and management processes.
+
+We hope to build on the success of the scrapbook and tributes by enhancing and extending their functionality. Improved editing and creation tools could assist contributors while also enriching the web of connections they build. We might, for example, provide widgets that make it easier to link the records of family members or friends. Over time this could develop into a complex network of relationships, providing new means of finding and visualising the records. Similarly, there are ways in which we might reuse the existing content of the scrapbook posts to develop new modes of discovery.
+
+We could also do more to feature the labours and passions of our contributors. We could give them the option of exposing a public profile that lists all of their scrapbook posts. This would help foster a sense of community while providing yet another means of exploring connections between records.
+
+Recent developments in geospatial technology and mobile devices perhaps offer the most exciting possibilities. Our original aim was to give the World War I service records back to local communities, to imbue the records with a greater sense of context, locality and belonging. Perhaps we will have succeeded when a tourist exploring a small country town can press a button on their mobile phone to retrieve a list of service people born near their current location.
+
+Perhaps they will take a photo of a name on the local war memorial and use it to automatically retrieve that person’s service record or create an online tribute.
+
+Perhaps they will come across a headstone in the local cemetery and immediately upload a geocoded photograph to the <em>Mapping</em><em> </em><em>our</em><em> </em><em>Anzacs</em> scrapbook.
+
+Instead of merely being markers on a map, the records will start to overlay and inform the very spaces in which we move. The stories they contain will become part of our journeys, the people they document will have found their way home.
+
+<hr />
+
+<h2>Creating a mashup</h2>
+2009 preprint version of interview originally published in Kate Theimer, <em>Web 2.0 Tools and Strategies for Archives and Local History Collections</em>, Neal-Schuman, New York, 2010. [<a href="http://www.neal-schuman.com/w2tsa">Order here</a>]
+<h5>What made you interested in creating a mashup?</h5>
+It really started with the records. We hold the records of more than 375,000 World War I service people, identified by their places of birth and enlistment. With war memorials in just about every town across Australia, the connection between local communities and the memory of war remains strong. So we wondered how we could we give the service people in our records back to their communities. Having played around with the Google Maps API the answer seemed obvious -- find the places, put them on a map and let people explore the connections for themselves.
+<h5>What information, tools and processes did you need to begin?</h5>
+The main thing we needed was the confidence to experiment. The process seemed straightforward in principle: first we had to extract the data we needed from the file titles in our collection database, then we had to find the latitude and longitude of each of the place names we extracted, and finally we had to plot these coordinates on a map with links back to details of the service records themselves. Web services, such as those provided by Google Maps, had the potential to do much of the work for us, and we scoured online documentation, user forums and blog posts for hints. But there were many things we could not know until we actually started. How consistent was our data? How many of the places would we be able to find? How would we be able to display thousands of places at once?
+
+Moving from file titles through to coordinates obviously required a lot of data manipulation and we used Perl for much of the grunt work. Because our data set was large and variations in spelling and formatting were often unpredictable (including 13 different spellings of 'lieutenant'!), we often had to work by trial and error -- seeing what results we obtained and then adjusting our processes accordingly.
+
+Once we had a list of place names in a consistent format we could begin to find latitudes and longitudes through a process known as geocoding. Google's geocoding service was an easy option: it was well documented, reasonably comprehensive and it worked! We fed it our place names through a Perl script and soon we had a list of coordinates. Of course, many places were not found or returned multiple results, but the basic principle was sound. Our places were no longer just names, but points in space -- we could begin making maps.
+<h5>How did you determine what to include?</h5>
+What we were creating was an archival finding aid, but one which placed the people, their homes and their communities up front rather than the systems that control their records. By browsing from a map a user would be able to find the details of a loved one, read a digitised copy of their service record and then follow a link through to our collection database. These links provide crucial context about the records, but we realised that this project also gave us an opportunity to capture other contexts and meanings. Who were these people? What did they look like? What happened to them after the war? By adding an online 'scrapbook' we gave users the chance to enrich the resource by adding notes or photographs about individuals.
+
+This meant we had to deal with three sets of interlinked data: geocoded places, details from our records, and scrapbook posts provided by the public. To bring these all together with limited resources we had to make clever use of what was already out there. Why create our own maps when all you needed to do was write a bit of Javascript to embed a Google Map? Why build our own scrapbook application when the blogging service Tumblr provides free accounts and a simple API to manipulate posts? While a substantial amount of custom scripting was required to glue everything together, much of the core functionality was provided by free web services, available to anyone.
+<h5>What challenges did you face?</h5>
+Perhaps the first challenge to overcome was that of imagination. It was difficult for people to understand what the project was until we had a prototype to show them.
+
+The process of handling and cleaning the data at times threatened to overwhelm us. While the geocoding service got us to the point where we could make maps, it also left us with many place names that needed to be manually checked. Often this was the result of misspellings in the original data, or because places either no longer existed or had changed their names. This data cleanup consumed much effort and continues still, though now with the help of our users who regularly point out errors and inconsistencies.
+
+Once we had our coordinates we had to display them on a map without killing anyone's computer. Showing thousands of markers on a Google Map is a challenge to slower web browsers and can end up hindering navigation. By dividing up our maps, clustering markers and changing the way they were rendered, we managed to greatly improve performance while maintaining the browsing experience. Once again it was trial and error coupled with the advice of the online community that guided us through the roadblocks.
+<h5>What kinds of positive results have you had? (And any negative ones?)</h5>
+From the messages we receive it's clear that Mapping our Anzacs allows people to find records they didn't know existed. Some have met a great-great-uncle for the first time. Others have learned about the war experience of a much-loved grandparent. Local communities have embraced the project and the scrapbook has developed into a rich and often moving resource. We wanted to give users a new way to explore and interact with our collection, and it seems we have succeeded.
+
+Our users have also become our collaborators, providing corrections and comments that help us improve our data. They have extended the idea of the scrapbook, using it, for example, as a noticeboard for family history research, or as a way of creating crosslinks between related resources.
+
+Success brings problems of its own and the work of moderating the scrapbook and responding to feedback has proved considerable. Issues with performance remain for people on slow connections, and while many are familiar with the Google Maps interface, some find it difficult to navigate. We are planning a number of enhancements based on this feedback, and hope to take advantage of the technology as it evolves to improve and extend the interface.
+<h5>About how much time did it take?</h5>
+While the project as a whole stretched over about eight months, much of this time was taken up cleaning and processing the data. The development of the interface was completed in under two months.
+<h5>What advice would you give an organization wanting to use something similar?</h5>
+Start experimenting. The technology is developing so rapidly that if you spend 12 months planning a project it's likely to be out-of-date even before you start. New web services and data sources are becoming available every day. Perhaps you could use Open Calais to extract people's names from a collection description, or MetaCarta to find the places. You might use the Google Books API to harvest the details of publications that cite your records. Even if you're not a coder you can use tools like Yahoo Pipes to see what happens when you start to link data and services. Experimentation brings new ideas and possibilities. It's all about making connections.

@@ -1,0 +1,46 @@
+---
+ID: 1845
+post_title: 'Old loves, new views&#8230;'
+author: Tim Sherratt
+post_date: 2012-08-29 00:22:10
+post_excerpt: ""
+layout: post
+permalink: >
+  http://discontents.com.au/old-loves-new-views/
+published: true
+tmac_last_id:
+  - "640027526002286592"
+---
+I'm deeply in love with the collections of the <a href="http://naa.gov.au">National Archives of Australia</a>. They move me, they inspire me, they make me want to <em>do something</em>. How do I express my love? I've written stories about things like <a href="http://discontents.com.au/words/articles/a-political-inconvenience" title="A political inconvenience">atomic bombs</a>, <a href="http://discontents.com.au/shoebox/history-of-australian-science/atomic-wonderland" title="Atomic wonderland">progress</a>, <a href="http://discontents.com.au/shoebox/history-of-australian-science/a-wartime-observatory-observed" title="A wartime observatory observed">astronomy</a> and <a href="http://discontents.com.au/words/articles/inigo-jones-the-weather-prophet" title="Inigo Jones: The Weather Prophet">weather forecasting</a> -- pursuing lives and events documented in the Archives' rich holdings. I work on projects like <a href="http://invisibleaustralians.org">Invisible Australians</a>, hoping to bring the compelling remnants of the White Australia Policy to broader public attention. And I build things. I make <a href="http://wraggelabs.com/emporium/recordsearch-tools/">tools</a> that help other people explore, understand and use the Archives. I do this because these riches <em>need</em> to be used. They need to be shared. They need to be part of the fabric of our lives.
+
+A few years ago I created <a href="http://discontents.com.au/shoebox/archives-shoebox/archives-in-3d" title="Archives in 3D">a little script</a> for Firefox that put a fresh face on the display of digitised records in the National Archives' <a href="http://www.naa.gov.au/collection/using/search/">RecordSearch</a> database. It's <a href="http://userscripts.org/scripts/show/33485">publicly available</a> and has been installed more than 500 times. Demonstrating this script at the <a href="http://discontents.com.au/shoebox/digital-humanities/doing-our-bit-build-a-thon" title="‘Doing our bit’ Build-a-thon">'Doing our bit' Build-a-thon</a> a few weeks ago made me realise again both how useful it was and how much work it still needed.
+
+One of the most exciting features when I first created the script was the ability to display the records on a '3D wall', courtesy of a Firefox plugin called CoolIris. But CoolIris uses Flash and is no longer being supported. Time for a new approach.
+
+Say hello to the <a href="http://dhistory.org/archives/naa/"><strong>Archives Viewer</strong></a> (naming things isn't really one of my strengths). Instead of rewriting my existing script I decided to create a completely new web application. Why? Mainly because it gave me a lot more flexibility. I could also make use of a variety of existing tools and frameworks like <a href="https://www.djangoproject.com/">Django</a>, <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>, <a href="http://isotope.metafizzy.co/">Isotope</a> and <a href="http://fancyapps.com/fancybox/">FancyBox</a>. Standing upon the code of giants, I had the whole thing up and running in a single weekend. The code is <a href="https://github.com/wragge/dhistory">available on GitHub</a>.
+
+What does it do? Simply put, just feed the <a href="http://dhistory.org/archives/naa/"><strong>Archives Viewer</strong></a> the barcode of a digitised file in RecordSearch and it grabs the metadata and images and displays them in a variety of useful ways. It's really pretty simple, both in execution and design.
+
+Yep, there's a wall. It's not quite as spacey and zoom-y as the CoolIris version, but perhaps that's a good thing. It's just a flat wall of page image thumbnails with a bit of lightbox-style magic thrown in. But when I say <em>just</em>, well... <a href="http://dhistory.org/archives/naa/items/3445411/">look for yourself</a>. There's something a bit magical about seeing all the pages of a file at once, taking in their shapes and colours as well as their content. This digital wall provides a strangely powerful reminder of the physical object.
+
+[caption id="attachment_1847" align="aligncenter" width="520" caption="National Archives of Australia: ST84/1, 1908/471-480"]<a href="http://dhistory.org/archives/naa/items/7461003/"><img src="http://discontents.com.au/wp-content/uploads/2012/08/rsviewer-520x487.png" alt="" title="rsviewer" width="520" height="487" class="size-large wp-image-1847" /></a>[/caption]
+
+Of course you can also view the file page by page if you want. Printing is a snap -- just type in any combination of pages or page ranges and hit the button. The images and metadata are assembled ready to print. No more wondering 'which file did this print out come from?'.
+
+But perhaps the most important feature is that each page has it's own unique, persistent url. Basic stuff, but oh, so important. With a good url you can share and cite. Find something exciting? Tell the world about it! I've included your typical social media share buttons to help you along.
+
+https://twitter.com/wragge/status/238637181843931136
+
+One disadvantage over the original userscript is that the viewer isn't directly linked to RecordSearch. You probably don't want to have to cut and paste the barcode every time you view a file. So I've also created a couple of <a href="http://dhistory.org/archives/naa/connectors/">connectors</a> that ummm... connect things up.
+
+The first connector is just a bookmarklet. A bookmarklet is just a little piece of javascript code disguised as a browser bookmark. Just drag this link -- <a href="javascript:(function(){if%20(window.location.href.match(/ItemDetail.aspx/)){var%20pattern=/Barcode=(d+)/;}else%20if%20(window.location.href.match(/Imagine.asp/)){var%20pattern=/B=(d+)/;}else{alert(&quot;Whoops!%20I%20can't%20find%20a%20barcode.&quot;)}window.location='http://dhistory.org/archives/naa/items/'+pattern.exec(window.location.href)[1]})();">Archives Viewer</a> -- to your browser's bookmark toolbar. Then when you're on the item page of a digitised file in RecordSearch, just click the bookmarklet and you'll be instantly transported to the wall.
+
+The <a href="http://userscripts.org/scripts/show/141795">second connector</a> is a bit smarter. It's an enhanced version of <a href="http://userscripts.org/scripts/show/64722">another userscript</a> I wrote to display the number of pages in a digitised file. It still does that, but now it also rewrites the links to the digitised files so that they automatically open in the Archives Viewer. It's a bit harder to install. You need Chrome or Firefox and the add-ons <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> (for Firefox) or <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> (for Chrome). Then just go to the <a href="http://userscripts.org/scripts/show/141795">userscript page</a> and hit the big 'Install' button.
+
+You might be wondering about <a href="http://zotero.org">Zotero</a> (at least I hope you are). My <a href="https://github.com/zotero/translators/blob/master/National%20Archives%20of%20Australia.js">Zotero-RecordSearch translator</a> lets you capture page images and metadata direct to your own research database, so what happens when you're transported across to the Archives Viewer? Never fear, I've written <a href="https://github.com/zotero/translators/blob/master/dhistory.js">a new translator</a> that lets you save pages as you could in RecordSearch. Even better, you get a persistent, context-enriched url, and the ability to capture multiple pages at once. Yippee!
+
+But that's not quite all. Buried within the pages is some lovely Linked Open Data. To be truthful, it's not really very 'linked' yet, but it does expose the basic metadata in a machine-readable form, borrowing from the vocabularies of projects like <a href="http://blogs.ukoln.ac.uk/locah/">Locah</a> and the <a href="https://github.com/rubinsztajn/archival">Archival Ontology</a>. It's an experiment, as is the Archives Viewer itself. We can learn by doing.
+
+https://twitter.com/wragge/status/239727383656165377
+
+I've given quite a few talks over recent times encouraging people to take up their tools and start hacking away at the digital collections of our cultural institutions. Yes, I admit it, I'm an <a href="http://discontents.com.au/words/speeches/confessions-of-an-impatient-historian" title="Confessions of an impatient historian">impatient historian</a> (and a grumpy one at that). But it's also because I think it's important that we recognise that access is <a href="http://discontents.com.au/words/conference-papers/it%e2%80%99s-all-about-the-stuff-collections-interfaces-power-and-people" title="It’s all about the stuff: collections, interfaces, power and people">never just something you're given</a>. It's something that we make through our stories, our projects, and our tools. It's something that's grounded in respect and powered by love.
