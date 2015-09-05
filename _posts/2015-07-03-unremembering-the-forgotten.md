@@ -32,7 +32,8 @@ builder_switch_frontend:
 tmac_last_id:
   - "640042682547482625"
 internet_archive:
-  - ""
+  - >
+    https://web.archive.org/web/20150905062506/http://discontents.com.au/unremembering-the-forgotten
 custom_permalink:
   - unremembering-the-forgotten
 ---
