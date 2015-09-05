@@ -39,7 +39,8 @@ custom_permalink:
 doi:
   - ""
 github:
-  - ""
+  - >
+    https://github.com/wragge/discontents-blog/blob/master/_posts/2015-07-03-unremembering-the-forgotten.md
 ---
 <em>Keynote presented at DH2015, 3 July 2015. Full slides <a href="http://www.slideshare.net/wragge/unremembering-the-forgotten">available</a> on SlideShare.</em>
 
@@ -307,4 +308,6 @@ It’s a task that needs to be both playful and political. It’s not about maki
 <h5>Permalink</h5>
 [permalink wpid="2541"]
 <h5>Internet Archive</h5>
-[acf field="internet_archive"]
+<a href='[acf field="internet_archive"]'>[acf field="internet_archive"]</a>
+<h5>GitHub</h5>
+<a href='[acf field="github"]'>[acf field="github"]</a>
