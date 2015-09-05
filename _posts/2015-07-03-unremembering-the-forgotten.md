@@ -30,7 +30,9 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640027497606856704"
+  - "640042682547482625"
+internet_archive:
+  - ""
 custom_permalink:
   - unremembering-the-forgotten
 ---
@@ -75,9 +77,7 @@ The German scientists were interned alongside many thousands of others. Most had
 To orient them on their antipodean adventure, visitors for the British Association meeting were supplied with <a href="https://archive.org/stream/commonwealthofau00brit">specially-prepared handbooks</a> that described conditions in Australia. At a time when violence against Indigenous people was still common along the frontiers of settlement, the Commonwealth Handbook informed visitors that Australian Aboriginals ‘represent the most backward race extant’.
 
 Australia was big, but its population was small. The Commonwealth Handbook noted the challenges of maintaining ‘control of so large a territory by a mere handful of people’, pointing to the significance of the ‘White Australia’ policy in avoiding the ‘difficulties’ of ‘heterogenous’ populations. Chris Watson, who served as Australia’s first Labor prime minister a decade earlier, expanded on this theme in the NSW Handbook. Concerns about the financial impact of ‘coloured’ labour, he explained, had been fused with an ‘abhorrence of racial admixture’ to create ‘practically a unanimous demand for a “White Australia”’. ‘White Australia’ was both an ideal and an obligation, an opportunity and a threat. Watson observed:
-
 <blockquote>The aboriginal natives are numerically a negligible quantity, so there is every opportunity for the building up of a great white democracy if the community can maintain possession against the natural desire of the brown and yellow races to participate in the good things to be found in the Commonwealth. That the Asiatic will for ever tamely submit to be excluded from a country which, while presenting golden opportunities, is yet comparatively unpeopled, can hardly be expected. Therefore Australians are realising that to maintain their ideals they must fill their waste spaces and prepare for effective defence.</blockquote>
-
 Welcome to Australia a hundred years later where we remember 1914 not for its institutionalised racism, but because it marked the beginning of a war that has come to be strongly associated with ideas of Australian nationhood.
 
 You have arrived here amidst the ‘Anzac Centenary’ which, the <a href="http://anzaccentenary.gov.au/">official website</a> notes, ‘is a milestone of special significance to all Australians’. It must be true because, according to the <a href="http://honesthistory.net.au/wp/">Honest History</a> site, we’re spending more than half a billion dollars on commemorative activities. That’s a lot of remembering.
@@ -231,9 +231,7 @@ I wonder if that’s what we’re doing – firing off experiments into the net,
 The Real Face of White Australia – PING!
 
 In 2012 Kate and I received an email from Mayu Kanamori, an artist researching the life of an early Japanese Australian photographer. She described her reaction to the Real Face of White Australia:
-
 <blockquote>When I scrolled down the Faces section of your website, browsing through the faces, tears welled up, and I couldn’t stop crying as if some sort of flood gates had been removed.</blockquote>
-
 We knew that that the documents and the images were powerful, but displaying the faces on that seemingly endless scrolling wall did something more than we were expecting.
 
 Jenny Edkins has been exploring the politics of faces, and she suggests that alongside our attempts to ‘read’ portrait photographs we also respond in a more visceral fashion, provoking responses such as ‘guilt, obligation, and reciprocity’. ((Jenny Edkins, <i>Face Politics</i>, Routledge, 2015.)) Like the ‘messy moments’ of protest bots, she argues that the connections we make through photos of faces can disrupt the ‘linear narrative temporality’ on which sovereign power depends. We are connected through time, not with history, not with the past, but with people. And that has implications.
@@ -257,9 +255,7 @@ Experimenting on Kate, I saw the blue of her eyes peering through eyes of anothe
 <a href="http://discontents.com.au/wp-content/uploads/2015/07/unremembering_dh2015.041.jpg"><img class="aligncenter size-large wp-image-2575" src="http://discontents.com.au/wp-content/uploads/2015/07/unremembering_dh2015.041-1024x768.jpg" alt="unremembering_dh2015.041" width="1024" height="768" /></a>
 
 The Australian historian Greg Dening has argued:
-
 <blockquote>Nothing can be returned to the past. Not life to its dead. Not justice to its victimised. But we take something from the past with our hindsighted clarity. That which we take we can return. We disempower the people of the past when we rob them of their present moments.</blockquote>
-
 There is no open access to the past. There is no key we can enter to recall a life. I do this sort of stuff not because I want to contribute to some form of national memory, but because I want to unsettle what it means to remember – to go beyond the listing of names and the cataloguing of files to develop modes of access that are confusing, challenging, inspiring, uncomfortable and sometimes creepy.
 
 Perhaps my favourite experiments are a couple of simple userscripts. They sit in your browser and change the behaviour of <a href="https://gist.github.com/wragge/78af45c181f4d11b1a5f">Trove</a> and <a href="https://gist.github.com/wragge/2941e473ee70152f4de7">RecordSearch</a>.
@@ -301,3 +297,9 @@ As I was writing this talk I stopped at various times to play around with code �
 Writing, making, thinking, playing, sharing. It all happens together. I’m a maker like my grandfather. While he poured metal I cut code. I do it because I want to find ways to connect with people like him, ordinary people living their lives. Those connections will always be fleeting and fragile, lacking the certainty of commemoration, but hopefully bearing some of the meaning and complexity of memory.
 
 It’s a task that needs to be both playful and political. It’s not about making things, but trying to make a difference.
+
+&nbsp;
+
+&nbsp;
+
+Archived at [acf field="internet_archive"]
