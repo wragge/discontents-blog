@@ -307,10 +307,13 @@ It’s a task that needs to be both playful and political. It’s not about maki
 
 &nbsp;
 <h5>Permalink</h5>
-[permalink wpid="2541"]
+<a href="[permalink wpid='2541']">[permalink wpid='2541']</a>
+
 <h5>DOI</h5>
 <a href="[acf field='doi']">[acf field="doi"]</a>
+
 <h5>Internet Archive</h5>
 <a href="[acf field='internet_archive']">[acf field="internet_archive"]</a>
+
 <h5>GitHub</h5>
 <a href="[acf field='github']">[acf field="github"]</a>
