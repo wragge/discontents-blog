@@ -311,6 +311,6 @@ It’s a task that needs to be both playful and political. It’s not about maki
 <h5>DOI</h5>
 <a href="[acf field='doi']">[acf field="doi"]</a>
 <h5>Internet Archive</h5>
-<a href="[acf field=&quot;internet_archive&quot;]">[acf field="internet_archive"]</a>
+<a href="[acf field='internet_archive']">[acf field="internet_archive"]</a>
 <h5>GitHub</h5>
-<a href="[acf field=&quot;github&quot;]">[acf field="github"]</a>
+<a href="[acf field='github']">[acf field="github"]</a>
