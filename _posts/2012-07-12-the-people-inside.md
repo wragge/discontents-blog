@@ -11,9 +11,10 @@ published: true
 tmac_last_id:
   - "640027527990366208"
 ---
-[<a href="http://storify.com/wragge/the-people-inside">View in Storify</a>]
+[[View in Storify][1]] A little hack to reveal faces in the archives. <!--more-->
 
-A little hack to reveal faces in the archives.
-<!--more-->
+<script src="http://storify.com/wragge/the-people-inside.js?header=false&border=false"></script><noscript>
+  [<a href="http://storify.com/wragge/the-people-inside" target="_blank">View the story "The people inside" on Storify</a>]
+</noscript>
 
-<script src="http://storify.com/wragge/the-people-inside.js?header=false&border=false"></script><noscript>[<a href="http://storify.com/wragge/the-people-inside" target="_blank">View the story "The people inside" on Storify</a>]</noscript>
+ [1]: http://storify.com/wragge/the-people-inside

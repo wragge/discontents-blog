@@ -26,8 +26,12 @@ unlink_post_image:
 builder_switch_frontend:
   - "0"
 ---
-I recently gave a presentation in the Institute of Historical Research's <a href="http://ihrdighist.blogs.sas.ac.uk/">Digital History Seminar</a> series. The time difference between London and Canberra was a bit of a challenge, so I pre-recorded the presentation and then sat in my own Twitter backchannel while it played. For the full podcast information go to <a href="https://historyspot.org.uk/podcasts/digital-history/exposing-archives-white-australia">HistorySPOT</a>. You can also <a href="http://wraggelabs.com/shed/presentations/exposing-archives/">play with my slides</a> or peruse the <a href="http://thebroadside.org/tw-archives/dhist.php">#dhist Twitter archive</a>.
+I recently gave a presentation in the Institute of Historical Research's [Digital History Seminar][1] series. The time difference between London and Canberra was a bit of a challenge, so I pre-recorded the presentation and then sat in my own Twitter backchannel while it played. For the full podcast information go to [HistorySPOT][2]. You can also [play with my slides][3] or peruse the [#dhist Twitter archive][4]. http://vimeo.com/60639104 [Exposing the Archives of White Australia][5] from [History SPOT][6] on [Vimeo][7].
 
-http://vimeo.com/60639104
-
-<a href="http://vimeo.com/60639104">Exposing the Archives of White Australia</a> from <a href="http://vimeo.com/user8316927">History SPOT</a> on <a href="http://vimeo.com">Vimeo</a>.
+ [1]: http://ihrdighist.blogs.sas.ac.uk/
+ [2]: https://historyspot.org.uk/podcasts/digital-history/exposing-archives-white-australia
+ [3]: http://wraggelabs.com/shed/presentations/exposing-archives/
+ [4]: http://thebroadside.org/tw-archives/dhist.php
+ [5]: http://vimeo.com/60639104
+ [6]: http://vimeo.com/user8316927
+ [7]: http://vimeo.com

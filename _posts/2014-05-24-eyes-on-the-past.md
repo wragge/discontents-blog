@@ -29,12 +29,16 @@ builder_switch_frontend:
 tmac_last_id:
   - "640027508381868032"
 ---
-Faces offer an instant connection to history, reminding us that the past is full of people. People like us, but different. People with their own lives and stories. People we might only know through a picture, a few documentary fragments, or a newspaper article.
+Faces offer an instant connection to history, reminding us that the past is full of people. People like us, but different. People with their own lives and stories. People we might only know through a picture, a few documentary fragments, or a newspaper article. [Eyes on the Past][1] is an experimental interface, built in a weekend. I’m exploring whether faces can provide a way to explore more than 120 million newspaper articles available on [Trove][2]. This collection of tweets tells the story of its development. <div class="storify">
+  <iframe src="//storify.com/wragge/eyes-on-the-past/embed?header=false&border=false&template=slideshow" width="100%" height="750" frameborder="no"></iframe><script src="//storify.com/wragge/eyes-on-the-past.js?header=false&border=false&template=slideshow"></script><noscript>
+    [<a href="//storify.com/wragge/eyes-on-the-past" target="_blank">View the story "Eyes on the past" on Storify</a>]
+  </noscript>
+</div>   There's some details about the software used in the site's 
 
-<a href="http://eyespast.herokuapp.com/">Eyes on the Past</a> is an experimental interface, built in a weekend. I’m exploring whether faces can provide a way to explore more than 120 million newspaper articles available on <a href="http://trove.nla.gov.au">Trove</a>.
+[about][3] page. You can view the [harvest/detection][4] and the [website][5] code on GitHub.
 
-This collection of tweets tells the story of its development.
-<div class="storify"><iframe src="//storify.com/wragge/eyes-on-the-past/embed?header=false&amp;border=false&amp;template=slideshow" width="100%" height="750" frameborder="no"></iframe><script src="//storify.com/wragge/eyes-on-the-past.js?header=false&amp;border=false&amp;template=slideshow"></script><noscript>[<a href="//storify.com/wragge/eyes-on-the-past" target="_blank">View the story "Eyes on the past" on Storify</a>]</noscript></div>
-&nbsp;
-
-There's some details about the software used in the site's <a href="http://eyespast.herokuapp.com/about">about</a> page. You can view the <a href="https://github.com/wragge/eyespast">harvest/detection</a> and the <a href="https://github.com/wragge/eyespast-web">website</a> code on GitHub.
+ [1]: http://eyespast.herokuapp.com/
+ [2]: http://trove.nla.gov.au
+ [3]: http://eyespast.herokuapp.com/about
+ [4]: https://github.com/wragge/eyespast
+ [5]: https://github.com/wragge/eyespast-web
