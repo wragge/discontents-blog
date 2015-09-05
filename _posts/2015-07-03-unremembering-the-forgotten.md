@@ -30,14 +30,15 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640103138079326208"
+  - "640118104584949762"
 internet_archive:
   - >
     https://web.archive.org/web/20150905062506/http://discontents.com.au/unremembering-the-forgotten
 custom_permalink:
   - unremembering-the-forgotten
 doi:
-  - ""
+  - >
+    http://dx.doi.org/10.6084/m9.figshare.1536150
 github:
   - >
     https://github.com/wragge/discontents-blog/blob/master/_posts/2015-07-03-unremembering-the-forgotten.md
@@ -307,7 +308,9 @@ It’s a task that needs to be both playful and political. It’s not about maki
 &nbsp;
 <h5>Permalink</h5>
 [permalink wpid="2541"]
+<h5>DOI</h5>
+<a href="[acf field='doi']">[acf field="doi"]</a>
 <h5>Internet Archive</h5>
-<a href='[acf field="internet_archive"]'>[acf field="internet_archive"]</a>
+<a href="[acf field=&quot;internet_archive&quot;]">[acf field="internet_archive"]</a>
 <h5>GitHub</h5>
-<a href='[acf field="github"]'>[acf field="github"]</a>
+<a href="[acf field=&quot;github&quot;]">[acf field="github"]</a>
