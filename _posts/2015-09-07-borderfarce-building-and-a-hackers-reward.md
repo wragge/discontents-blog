@@ -33,7 +33,11 @@ doi:
   - ""
 github:
   - ""
+builder_switch_frontend:
+  - "0"
 ---
+<em>Presented at the National Scholarly Communications Forum, Canberra, 7 September 2015.</em>
+
 About 10 days ago I was part of what the <em>Australian</em> described as a ‘frenzy of hyperbole, hysteria and straightforward misinformation’ as Twitter responded to Border Force’s plans to patrol the streets of Melbourne in a crackdown on visa fraud.
 
 Like many others I responded to the announcement with anger, sadness, and disbelief. Was this what we had become?
