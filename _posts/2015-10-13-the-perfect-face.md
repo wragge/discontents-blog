@@ -33,6 +33,10 @@ doi:
   - ""
 github:
   - ""
+builder_switch_frontend:
+  - "0"
+tmac_last_id:
+  - ""
 ---
 <em>Presented at the National Digital Forum, 13 October 2015, Wellington.</em>
 
@@ -172,7 +176,7 @@ Cultural heritage data is gloriously messy. Even as we try and wrangle it to fit
 
 You cannot know me from my face.
 
-My identity cannot be captured in a database.
+My identity cannot be captured in your database.
 
 Let's use facial detection to enrich our metadata, but let's also work with artists, developers, and activists to challenge the technology's embedded assumptions about the 'perfect face'.
 
