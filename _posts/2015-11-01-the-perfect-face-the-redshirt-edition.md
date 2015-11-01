@@ -35,7 +35,9 @@ doi:
   - ""
 github:
   - ""
+tmac_last_id:
+  - ""
 ---
-The video of my NDF2015 talk 'The Perfect Face' is now available online:
+The video of my NDF2015 talk <a href="http://discontents.com.au/the-perfect-face/">The Perfect Face</a> is now available online:
 
 https://youtu.be/BBm7AwNs3gk
