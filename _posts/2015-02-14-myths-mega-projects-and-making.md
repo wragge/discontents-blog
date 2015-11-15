@@ -30,7 +30,13 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640027502887354368"
+  - "665832620782153729"
+internet_archive:
+  - ""
+doi:
+  - ""
+github:
+  - ""
 ---
 <em>Keynote presented by video at <a href="http://www.europeanatech2015.eu/">EuropeanaTech 2015</a>, 13 February 2015.</em>
 
