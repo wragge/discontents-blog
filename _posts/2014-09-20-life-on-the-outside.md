@@ -24,7 +24,15 @@ unlink_post_image:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640027506569973760"
+  - ""
+citation:
+  - ""
+internet_archive:
+  - ""
+doi:
+  - ""
+github:
+  - ""
 ---
 <em>Keynote presented at the <a href="http://conf2014.jadh.org/">Annual Conference</a> of the Japanese Association for the Digital Humanities, 20 September 2014, Tsukuba.</em>
 
