@@ -39,6 +39,18 @@ doi:
   - ""
 github:
   - ""
+ct_tracks_video_key:
+  - ""
+ct_tracks_video_display_key:
+  - post
+ct_tracks_video_youtube_title:
+  - "0"
+ct_tracks_video_youtube_related:
+  - "0"
+ct_tracks_video_youtube_logo:
+  - "0"
+ct_tracks_video_youtube_captions:
+  - "0"
 ---
 I spoke recently at the <a href="http://summit2015.lodlam.net/2015/07/10/lod-book/">LODLAM Summit</a> and the <a href="http://discontents.com.au/stories-for-machines-data-for-humans/">New Factual Storytelling Symposium</a> about my latest experiments in developing online historical narratives that embed rich structured data about people, places, events and resources. I also mentioned that there were plans afoot to publish a couple of substantial works using the framework. One of these will be by my partner in crime, Kate Bagnall, and I thought you might like a preview. Coming soon(ish) to a website near you...
 <h2>James Minahan's Homecoming</h2>
