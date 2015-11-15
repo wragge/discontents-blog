@@ -30,7 +30,13 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640027503487156225"
+  - "665832623260999680"
+internet_archive:
+  - ""
+doi:
+  - ""
+github:
+  - ""
 ---
 <em>Presented at ALIA Online 2015, 3 February 2015 in Sydney. A longer version with bonus references will be made available <a href="http://information-online.alia.org.au/content/seams-and-edges-dreams-aggregation-access-and-discovery-broken-world">on the ALIA Online site</a>. Slides are <a href="http://www.slideshare.net/wragge/on-seams-and-edges-dreams-of-aggregation-access-and-discovery-in-a-broken-world-slides">on Slideshare</a>.</em>
 
