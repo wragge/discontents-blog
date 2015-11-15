@@ -30,7 +30,7 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640118104584949762"
+  - "665832617032437760"
 internet_archive:
   - >
     https://web.archive.org/web/20150905062506/http://discontents.com.au/unremembering-the-forgotten
@@ -308,12 +308,9 @@ It’s a task that needs to be both playful and political. It’s not about maki
 &nbsp;
 <h5>Permalink</h5>
 <a href="[permalink wpid='2541']">[permalink wpid='2541']</a>
-
 <h5>DOI</h5>
 <a href="[acf field='doi']">[acf field="doi"]</a>
-
 <h5>Internet Archive</h5>
 <a href="[acf field='internet_archive']">[acf field="internet_archive"]</a>
-
 <h5>GitHub</h5>
 <a href="[acf field='github']">[acf field="github"]</a>
