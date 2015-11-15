@@ -7,7 +7,7 @@ post_excerpt: ""
 layout:
   - default
 permalink: >
-  http://discontents.com.au/asking-better-questions
+  http://discontents.com.au/asking-better-questions-history-trove-and-the-risks-that-count/
 published: true
 content_width:
   - default_width
@@ -30,9 +30,15 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640027499406094336"
+  - "665832617154093056"
 custom_permalink:
   - asking-better-questions
+internet_archive:
+  - ""
+doi:
+  - ""
+github:
+  - ""
 ---
 &nbsp;
 
@@ -59,9 +65,7 @@ The whole thing was <a href="http://discontents.com.au/the-real-face-of-white-au
 In a <a href="http://www.r2.co.nz/20111129/michael-l.htm">keynote address</a> to New Zealand’s <a href="http://www.ndf.org.nz/">National Digital Forum</a> in 2011, library technologist <a href="http://lascarid.es/">Michael Lascarides</a> challenged those of us who work with digital cultural collections to ‘ask better questions’. When confronted with the remains of our racist history, when looking into the eyes of people whose lives were monitored and controlled by the government because of the colour of their skin, why should we feel compelled to consider the technicalities of copyright?
 
 Surely there are better questions to ask?
-
 <p style="text-align: center;">©©©©©</p>
-
 I describe myself as a cultural data-hacker, but my business hours are currently spent on the other side of the fence, as the manager of <a href="http://trove.nla.gov.au">Trove</a> at the National Library of Australia.Trove is a discovery service that makes Australian resources easier to find and use. It’s a collection of collections, bringing together the holdings of many libraries, archives, museums, universities, government agencies and more. The most heavily used part of Trove is an ever-growing collection of digitised newspapers – the full text of more than 130 million articles documenting Australian history from 1803 onwards.
 
 It’s hard to measure the cultural impact of Trove’s digitised newspapers. Technologies like optical character recognition (OCR) and keyword searching are now commonplace, but apply them to 150 years of Australian history and something transformative happens. Easy access to historical newspapers is changing our relationship with the past.
@@ -78,9 +82,7 @@ More surprising than just the range of topics, styles and prejudices is the diff
 
 Easy accessibility is helping to break down the otherness of the past, allowing it to be mobilised in contemporary discussions. New conversations between past and present are emerging around the digitised newspapers. Trove has launched us upon a massive ongoing experiment in collaborative meaning-making.
 And it might never have happened.
-
 <p style="text-align: center;">©©©©©</p>
-
 Years before I was given the job as Trove manager, I was poking and prodding at the interface, trying to extract useful data to use in new applications, and generally making a nuisance of myself. Among the tools I created was <a href="http://dhistory.org/querypic/">QueryPic</a>, a simple way of visualising newspaper searches. It’s been through several versions but the principle remains constant – just feed in your search query and QueryPic will create a line chart showing you the number of newspaper articles per year that match your query.
 
 QueryPic is well used and has even been cited in scholarly articles, but I think its greatest value is as an example of what becomes possible when you make large quantities of cultural content available in digital form. Instead of the normal list of search results, QueryPic shows you trends and patterns. You can observe changes in language, the rise and fall of our cultural obsessions or the impact of major events. When did the <a href="http://dhistory.org/querypic/43/">‘Great War’ become the ‘First World War’</a>? Is that jolly Christmas visitor called <a href="http://dhistory.org/querypic/99/">‘Father Christmas’ or ‘Santa Claus’</a>? QueryPic helps you see things differently.
@@ -94,9 +96,7 @@ But it’s even more complicated than that, as there’s no certainty that newsp
 These types of judgements are made all the time by cultural organisations wanting to open online access to their collections. Libraries, archives and museums are full of so-called ‘orphan’ works, whose creators cannot be identified or located. There’s no risk-free way of making this content available online.
 
 But these risks are not only assessed and managed, they’re passed on to users, who must themselves try and navigate the thicket of copyright law. As use of online collections moves beyond traditional forms of citation into new types of digital aggregation, analysis and annotation, the doubts and complexities accumulate. The price of innovation is increased risk. The only safe course is to do nothing.
-
 <p style="text-align: center;">©©©©©</p>
-
 Why do we put cultural heritage collections online? Is it for the sake of efficiency, preservation, marketing or perhaps an informed citizenry? Usually we fall back on fuzzy notions of ‘engagement’ or ‘access’. More access is good, particularly if we can measure it easily through web stats.
 
 Recently we surveyed Trove users to gain a broad picture of satisfaction and use. One finding in particular keeps me coming into work each day – 90 per cent of our general users agreed with the statement ‘Trove has made me interested in learning and discovering more’. Access can’t simply be measured in collection images or web-page hits. What we’re creating is an enlarged space for reflection, research, learning, creativity and critique. We’re enabling people to do more, with more.
@@ -114,9 +114,7 @@ Recently Dan Cohen, the Executive Director of the DPLA, <a href="http://www.danc
 It might not figure in our web stats, but the National Library has plenty of anecdotal evidence that Trove changes lives – a grandfather’s face glimpsed for the first time, or perhaps a family mystery solved. One man, who grew up in care, found through Trove the only known photograph of himself as a child. How do we weigh such opportunities against questions of ownership and control?
 
 We need to shift the discussion away from the nature of property to the value of use. What do we want to do? Online culture is read–write. We do not simply consume – we share, we remix, we curate and create. Increased participation brings new opportunities for understanding. Do we give them flight or lock them down?
-
 <p style="text-align: center;">©©©©©</p>
-
 One of the main sources of traffic to Trove, up there with Facebook and Wikipedia, is the knitting site <a href="https://www.ravelry.com/">Ravelry</a>. Why? Because Ravelry users have found and shared hundreds of craft patterns from Trove’s digitised newspapers. And not just shared, but made. The most popular pattern, <a href="http://www.ravelry.com/patterns/library/elegant-elephant-2">‘Elegant elephant’</a>, discovered in a <a href="http://trove.nla.gov.au/ndp/del/article/43016316">1959 edition</a> of the <em>Australian Women’s Weekly</em>, has been made more than forty times, often with individual embellishments.
 
 This to me seems a great example of the wonderful complexities that the digitisation of cultural heritage collections are introducing into our relationship with the past. A digital version of a fifty-year-old pattern is shared online and spawns a herd of cuddly elephants. From past to present, from digital to physical, the transformations pile one on top of another.
@@ -130,9 +128,7 @@ But these techniques also carry new risks. Researchers in the digital humanities
 And yet the ultimate goal isn’t certainty, it’s a greater awareness of the constraints around our engagement with the past. Within both government and the cultural sector the value of ‘open’ data is rightly proclaimed, but open data is always, to some extent, closed. Categories have been assigned, formats have been cleaned, deci- sions made about what belongs and what doesn’t – every spreadsheet contains an argument.
 
 Each elephant is different. The tensions imposed by our overly complex system of copyright do at least remind us that the past can never be ‘open’, its limits cannot be legislated, its boundaries cannot be fixed. Beneath questions of access and use are better questions about our responsibilities to the past.
-
 <p style="text-align: center;">©©©©©</p>
-
 I’ll admit that part of my discomfort in being questioned about the copyright status of ‘The real face of White Australia’ stemmed from my ignorance. I just didn’t know the answer.
 
 I’m still not sure.
