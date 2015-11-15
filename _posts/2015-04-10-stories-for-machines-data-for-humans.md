@@ -30,7 +30,13 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640027502887354368"
+  - "665832618349326336"
+internet_archive:
+  - ""
+doi:
+  - ""
+github:
+  - ""
 ---
 <em>Presented at the New Factual Storytelling symposium, 10 April 2015, University of Canberra</em>
 
