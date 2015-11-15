@@ -29,7 +29,13 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "640027499456389122"
+  - "665832618349326336"
+internet_archive:
+  - ""
+doi:
+  - ""
+github:
+  - ""
 ---
 My blog hasn’t quite caught up the fact that I now have two jobs to go along with my two lives. Monday to Wednesday I’m still part of the <a href="http://trove.nla.gov.au">Trove</a> management team at the National Library of Australia, but on Thursdays and Fridays I’m Associate Professor of Digital Heritage in the <a href="http://www.canberra.edu.au/about-uc/faculties/arts-design">Faculty of Arts and Design</a> at the University of Canberra.
 
