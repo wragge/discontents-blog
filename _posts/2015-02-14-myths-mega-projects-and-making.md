@@ -30,13 +30,25 @@ citation:
 builder_switch_frontend:
   - "0"
 tmac_last_id:
-  - "665832620782153729"
+  - "665847675187785728"
 internet_archive:
   - ""
 doi:
   - ""
 github:
   - ""
+ct_tracks_video_key:
+  - ""
+ct_tracks_video_display_key:
+  - post
+ct_tracks_video_youtube_title:
+  - "0"
+ct_tracks_video_youtube_related:
+  - "0"
+ct_tracks_video_youtube_logo:
+  - "0"
+ct_tracks_video_youtube_captions:
+  - "0"
 ---
 <em>Keynote presented by video at <a href="http://www.europeanatech2015.eu/">EuropeanaTech 2015</a>, 13 February 2015.</em>
 
