@@ -37,6 +37,18 @@ doi:
   - ""
 github:
   - ""
+ct_tracks_video_key:
+  - ""
+ct_tracks_video_display_key:
+  - post
+ct_tracks_video_youtube_title:
+  - "0"
+ct_tracks_video_youtube_related:
+  - "0"
+ct_tracks_video_youtube_logo:
+  - "0"
+ct_tracks_video_youtube_captions:
+  - "0"
 ---
 <em>Presented at the New Factual Storytelling symposium, 10 April 2015, University of Canberra</em>
 
