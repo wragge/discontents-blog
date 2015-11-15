@@ -35,6 +35,8 @@ github:
   - ""
 builder_switch_frontend:
   - "0"
+tmac_last_id:
+  - ""
 ---
 After missing a couple of years I was very glad to make it back to the <a href="http://www.ndf.org.nz/ndf2015/">National Digital Forum</a> in Wellington. NDF is my favourite conference in the world -- always chock full of inspiring keynotes, welcoming colleagues, and interesting ideas. You should all go. I've previously posted by own talk <a href="http://discontents.com.au/the-perfect-face/">The Perfect Face</a> (and the <a href="http://discontents.com.au/the-perfect-face-the-redshirt-edition/">video</a>), but all the sessions were filmed, so you can catch up on the whole conference via the <a href="https://www.youtube.com/user/NDFNZ">NDFNZ YourTube channel</a>.
 
