@@ -28,7 +28,7 @@ doi:
 github:
   - ""
 ---
-I’d just arrived home on Tuesday evening when a tweet from the local ABC radio station <a href="https://twitter.com/666canberra/status/701649786043129856">appeared in my stream</a>: ‘NOW: @nlagovau informs its staff of budget cuts’. An all-staff email describing the impact of continuing government funding cuts on the Library had become public – it was not good news.
+I’d just arrived home on Monday evening when a tweet from the local ABC radio station <a href="https://twitter.com/666canberra/status/701649786043129856">appeared in my stream</a>: ‘NOW: @nlagovau informs its staff of budget cuts’. An all-staff email describing the impact of continuing government funding cuts on the Library had become public – it was not good news.
 
 Everyone knows there are harsh times ahead for our national cultural institutions – the effect of the latest cuts (let’s not call them ‘efficiency dividends’) was <a href="http://www.abc.net.au/news/2016-02-11/senators-urge-federal-government-to-fund-institutions/7160370">vigorously discussed</a> at Senate Estimates. Although the Australian War Memorial was, rather significantly, <a href="http://www.theguardian.com/australia-news/postcolonial-blog/2016/feb/22/our-major-cultural-institutions-are-in-crisis-and-our-history-is-being-militarised">spared the bayonet</a>. These ‘dividends’ have been forcibly extracted by governments of both persuasions, but the latest round has pushed the already struggling organisations beyond their capacity to adjust. Staff and services are going to be lost.
 
