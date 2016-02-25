@@ -81,5 +81,6 @@ Latest #fundTrove news &amp; posts:
 	<li>Blog post <a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">#FundTROVE</a> by <a href="http://twitter.com/annelie_de">@annelie_de</a></li>
 	<li>Blog post <a href="https://cassmob.wordpress.com/2016/02/25/on-the-importance-of-trove/">On the importance of Trove</a> by <a href="http://twitter.com/@cassmob">@cassmob</a></li>
 	<li>Blog post <a href="https://ancestrysearch.wordpress.com/2016/02/25/fundtrove/">#FundTrove</a> by <a href="http://twitter.com/jessb3">@jessb3</a></li>
+	<li>Blog post <a href="http://jayeweatherburn.com/2016/02/25/fundtrove/">#fundTrove</a> by <a href="http://twitter.com/jayechats">@jayechats</a></li>
 </ul>
 &nbsp;
