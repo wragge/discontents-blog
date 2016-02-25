@@ -27,6 +27,8 @@ doi:
   - ""
 github:
   - ""
+tmac_last_id:
+  - ""
 ---
 I’d just arrived home on Monday evening when a tweet from the local ABC radio station <a href="https://twitter.com/666canberra/status/701649786043129856">appeared in my stream</a>: ‘NOW: @nlagovau informs its staff of budget cuts’. An all-staff email describing the impact of continuing government funding cuts on the Library had become public – it was not good news.
 
@@ -70,4 +72,15 @@ Things you can do right now:
 <ul>
 	<li>Tweet or post about the value of Trove using the hashtag <a href="https://twitter.com/hashtag/fundtrove?f=tweets&amp;vertical=default&amp;src=hash">#fundTrove</a>.</li>
 	<li>Write to Senator Fifield (or other government members) – the folks at the eScholarship Research Centre at Melbourne University have already <a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">drafted a sample letter</a>.</li>
+</ul>
+
+<hr />
+
+&nbsp;
+
+Latest #fundTrove news &amp; posts:
+<ul>
+	<li>Blog post <a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">#FundTROVE</a> by <a href="http://twitter.com/annelie_de">@annelie_de</a></li>
+	<li>Blog post <a href="https://cassmob.wordpress.com/2016/02/25/on-the-importance-of-trove/">On the importance of Trove</a> by <a href="http://twitter.com/@cassmob">@cassmob</a></li>
+	<li>Blog post <a href="https://ancestrysearch.wordpress.com/2016/02/25/fundtrove/">#FundTrove</a> by <a href="http://twitter.com/jessb3">@jessb3</a></li>
 </ul>
