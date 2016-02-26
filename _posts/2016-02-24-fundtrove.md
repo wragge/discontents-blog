@@ -82,5 +82,6 @@ Latest #fundTrove news &amp; posts:
 	<li>Blog post <a href="https://cassmob.wordpress.com/2016/02/25/on-the-importance-of-trove/">On the importance of Trove</a> by <a href="http://twitter.com/@cassmob">@cassmob</a></li>
 	<li>Blog post <a href="https://ancestrysearch.wordpress.com/2016/02/25/fundtrove/">#FundTrove</a> by <a href="http://twitter.com/jessb3">@jessb3</a></li>
 	<li>Blog post <a href="http://jayeweatherburn.com/2016/02/25/fundtrove/">#fundTrove</a> by <a href="http://twitter.com/jayechats">@jayechats</a></li>
+	<li><a href="https://theconversation.com/treasure-trove-why-defunding-trove-leaves-australia-poorer-55217">Treasure Trove: why defunding Trove leaves Australia poorer</a> by <a href="http://twitter.com/mikejonesmelb">@mikejonesmelb</a> &amp; <a href="http://twitter.com/bestqualitycrab">@bestqualitycrab</a> in <em>The Conversation</em></li>
 </ul>
 &nbsp;
