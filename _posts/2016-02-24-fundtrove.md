@@ -72,16 +72,20 @@ Things you can do right now:
 <ul>
 	<li>Tweet or post about the value of Trove using the hashtag <a href="https://twitter.com/hashtag/fundtrove?f=tweets&amp;vertical=default&amp;src=hash">#fundTrove</a>.</li>
 	<li>Write to Senator Fifield (or other government members) – the folks at the eScholarship Research Centre at Melbourne University have already <a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">drafted a sample letter</a>.</li>
+	<li>Add your name to this <a href="https://www.megaphone.org.au/petitions/fund-trove-1">Fund Trove petition</a> by Edwina Byrne</li>
 </ul>
 
 <hr />
 
 Latest #fundTrove news &amp; posts:
 <ul>
+	<li><strong>Latest updates will be posted on the <a href="https://www.facebook.com/fundtrove/">#fundTrove Facebook page</a>!</strong></li>
 	<li>Blog post <a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">#FundTROVE</a> by <a href="http://twitter.com/annelie_de">@annelie_de</a></li>
 	<li>Blog post <a href="https://cassmob.wordpress.com/2016/02/25/on-the-importance-of-trove/">On the importance of Trove</a> by <a href="http://twitter.com/@cassmob">@cassmob</a></li>
 	<li>Blog post <a href="https://ancestrysearch.wordpress.com/2016/02/25/fundtrove/">#FundTrove</a> by <a href="http://twitter.com/jessb3">@jessb3</a></li>
 	<li>Blog post <a href="http://jayeweatherburn.com/2016/02/25/fundtrove/">#fundTrove</a> by <a href="http://twitter.com/jayechats">@jayechats</a></li>
 	<li><a href="https://theconversation.com/treasure-trove-why-defunding-trove-leaves-australia-poorer-55217">Treasure Trove: why defunding Trove leaves Australia poorer</a> by <a href="http://twitter.com/mikejonesmelb">@mikejonesmelb</a> &amp; <a href="http://twitter.com/bestqualitycrab">@bestqualitycrab</a> in <em>The Conversation</em></li>
+	<li>Blog post <a href="https://inthemailbox.wordpress.com/2016/02/26/an-open-letter-to-senator-fifield/">An open letter to Senator Fifield </a>by <a href="http://twitter.com/morethangrass">@morethangrass</a></li>
+	<li>Blog post <a href="https://learnearnandreturn.wordpress.com/2016/02/27/a-treasure-trove-of-newspapers/">A Treasure Trove of Newspapers</a> by <a href="http://twitter.com/diamond_marion">@diamond_marion</a></li>
 </ul>
 &nbsp;
