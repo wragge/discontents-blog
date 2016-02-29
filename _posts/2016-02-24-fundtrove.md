@@ -72,7 +72,13 @@ Things you can do right now:
 <ul>
 	<li>Tweet or post about the value of Trove using the hashtag <a href="https://twitter.com/hashtag/fundtrove?f=tweets&amp;vertical=default&amp;src=hash">#fundTrove</a>.</li>
 	<li>Write to Senator Fifield (or other government members) – the folks at the eScholarship Research Centre at Melbourne University have already <a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">drafted a sample letter</a>.</li>
-	<li>Add your name to this <a href="https://www.megaphone.org.au/petitions/fund-trove-1">Fund Trove petition</a> by Edwina Byrne</li>
+	<li>Sign one or all of these petitions:
+<ul>
+	<li><a href="https://www.megaphone.org.au/petitions/fund-trove-1">Fund Trove!</a> created by Edwina Byrne on Megaphone.org.au</li>
+	<li><a href="https://www.change.org/p/malcolm-turnbull-mp-stop-cuts-to-national-library-of-australia-save-trove">Stop Cuts to National Library of Australia &amp; Save Trove</a> created by Paddy O'Toole at Change.org</li>
+	<li><a href="https://www.change.org/p/your-local-government-representitive-stop-the-australian-government-from-wrecking-trove">Stop the Australian government from wrecking Trove</a> created by Ian Gardener at Change.org</li>
+</ul>
+</li>
 </ul>
 
 <hr />
@@ -87,5 +93,9 @@ Latest #fundTrove news &amp; posts:
 	<li><a href="https://theconversation.com/treasure-trove-why-defunding-trove-leaves-australia-poorer-55217">Treasure Trove: why defunding Trove leaves Australia poorer</a> by <a href="http://twitter.com/mikejonesmelb">@mikejonesmelb</a> &amp; <a href="http://twitter.com/bestqualitycrab">@bestqualitycrab</a> in <em>The Conversation</em></li>
 	<li>Blog post <a href="https://inthemailbox.wordpress.com/2016/02/26/an-open-letter-to-senator-fifield/">An open letter to Senator Fifield </a>by <a href="http://twitter.com/morethangrass">@morethangrass</a></li>
 	<li>Blog post <a href="https://learnearnandreturn.wordpress.com/2016/02/27/a-treasure-trove-of-newspapers/">A Treasure Trove of Newspapers</a> by <a href="http://twitter.com/diamond_marion">@diamond_marion</a></li>
+	<li>MP Tim Watts' <a href="https://www.facebook.com/timwattsmp/videos/1000001233369095/">speech in Federal Parliament</a> on Trove</li>
+	<li><a href="http://www.abc.net.au/news/2016-02-29/thackrah-turnbull,-cuts-and-the-culture-of-forgetting/7206890">Turnbull, cuts and the culture of forgetting</a> by <a href="http://twitter.com/AndrewThackrah">@AndrewThackrah</a> on <em>The Drum</em></li>
+	<li>Blog post <a href="http://www.jessicawhite.com.au/ladyredjess/2016/2/29/fundtrove">#fundTrove</a> by <a href="http://twitter.com/ladyredjess">@ladyredjess</a></li>
+	<li>Blog post <a href="http://peter.neish.net/funding-smart-infrastructure/">Funding smart infrastructure</a> by <a href="http://twitter.com/peterneish">@peterneish</a></li>
 </ul>
 &nbsp;
