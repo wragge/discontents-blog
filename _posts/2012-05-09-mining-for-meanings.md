@@ -9,13 +9,33 @@ permalink: >
   http://discontents.com.au/mining-for-meanings/
 published: true
 tmac_last_id:
-  - "640027535368060929"
+  - "704593168419971072"
+ct_tracks_video_key:
+  - ""
+ct_tracks_video_display_key:
+  - post
+ct_tracks_video_youtube_title:
+  - "0"
+ct_tracks_video_youtube_related:
+  - "0"
+ct_tracks_video_youtube_logo:
+  - "0"
+ct_tracks_video_youtube_captions:
+  - "0"
+citation:
+  - ""
+internet_archive:
+  - ""
+doi:
+  - ""
+github:
+  - ""
 ---
 <a href="http://discontents.com.au/wp-content/uploads/2012/05/harold_white.jpg"><img class="aligncenter size-large wp-image-1717" title="harold_white" src="http://discontents.com.au/wp-content/uploads/2012/05/harold_white-520x385.jpg" alt="" width="520" height="385" /></a>
 
 Yes, I have a suit. On 8 May at the National Library of Australia I gave my suit an outing as I delivered my <a href="http://www.nla.gov.au/awards-and-grants/harold-white-fellowships">Harold White Fellowship</a> presentation. Thanks to everyone who came along.
 
-If you missed it or want to relive the fun, the NLA has made <a href="http://www.nla.gov.au/podcasts/collections.html">a podcast available</a>. My slides <a href="http://wraggelabs.com/shed/presentations/nla/">are also online</a>, so you can follow along for the full audio-visual-not-quite-3D experience.
+If you missed it or want to relive the fun, the NLA has made <a href="http://www.nla.gov.au/podcasts/media/Harold-White/tim-sherratt.mp3">a podcast available</a>. My slides <a href="http://wraggelabs.com/shed/presentations/nla/">are also online</a>, so you can follow along for the full audio-visual-not-quite-3D experience.
 
 Use your arrow keys to navigate through the slides, and yes the first page is intentionally left blank. If you linger for a bit on slide two or three, you'll see the <a href="http://trove.nla.gov.au/general/api">Trove API</a> in action. The presentation itself was constructed using <a href="http://imakewebthings.com/deck.js/">deck.js</a>.
 
