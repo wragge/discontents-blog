@@ -98,5 +98,6 @@ Latest #fundTrove news &amp; posts:
 	<li>Blog post <a href="http://www.jessicawhite.com.au/ladyredjess/2016/2/29/fundtrove">#fundTrove</a> by <a href="http://twitter.com/ladyredjess">@ladyredjess</a></li>
 	<li>Blog post <a href="http://peter.neish.net/funding-smart-infrastructure/">Funding smart infrastructure</a> by <a href="http://twitter.com/peterneish">@peterneish</a></li>
 	<li>Blog post <a href="https://karinspeedy.wordpress.com/2016/03/01/trove-beyond-borders/">Trove beyond borders</a> by <a href="http:////twitter.com/KarinESpeedy">@KarinESpeedy</a></li>
+	<li><a href="https://rtrfm.com.au/story/fundtrove/">My radio interview</a> with Perth's community radio station RTRFM</li>
 </ul>
 &nbsp;
