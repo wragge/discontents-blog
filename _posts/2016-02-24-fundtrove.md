@@ -97,5 +97,6 @@ Latest #fundTrove news &amp; posts:
 	<li><a href="http://www.abc.net.au/news/2016-02-29/thackrah-turnbull,-cuts-and-the-culture-of-forgetting/7206890">Turnbull, cuts and the culture of forgetting</a> by <a href="http://twitter.com/AndrewThackrah">@AndrewThackrah</a> on <em>The Drum</em></li>
 	<li>Blog post <a href="http://www.jessicawhite.com.au/ladyredjess/2016/2/29/fundtrove">#fundTrove</a> by <a href="http://twitter.com/ladyredjess">@ladyredjess</a></li>
 	<li>Blog post <a href="http://peter.neish.net/funding-smart-infrastructure/">Funding smart infrastructure</a> by <a href="http://twitter.com/peterneish">@peterneish</a></li>
+	<li>Blog post <a href="https://karinspeedy.wordpress.com/2016/03/01/trove-beyond-borders/">Trove beyond borders</a> by <a href="http:////twitter.com/KarinESpeedy">@KarinESpeedy</a></li>
 </ul>
 &nbsp;
