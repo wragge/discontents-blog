@@ -100,5 +100,6 @@ Latest #fundTrove news &amp; posts:
 	<li>Blog post <a href="https://karinspeedy.wordpress.com/2016/03/01/trove-beyond-borders/">Trove beyond borders</a> by <a href="http:////twitter.com/KarinESpeedy">@KarinESpeedy</a></li>
 	<li><a href="https://rtrfm.com.au/story/fundtrove/">My radio interview</a> with Perth's community radio station RTRFM</li>
 	<li>Blog post <a href="http://librariessa.blogspot.com.au/2016/03/trove-library-communitys-greatest.html">TROVE: the library community's greatest contribution at risk</a> by <a href="http://twitter.com/57GPS">@57GPS</a></li>
+	<li>Blog post <a href="http://blog.wags.org.au/index.php/opinions/46-what-is-it-about-trove">What is it about Trove?</a> by Chris Loudon</li>
 </ul>
 &nbsp;
