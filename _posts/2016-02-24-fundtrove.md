@@ -100,6 +100,9 @@ Latest #fundTrove news &amp; posts:
 	<li>Blog post <a href="https://karinspeedy.wordpress.com/2016/03/01/trove-beyond-borders/">Trove beyond borders</a> by <a href="http:////twitter.com/KarinESpeedy">@KarinESpeedy</a></li>
 	<li><a href="https://rtrfm.com.au/story/fundtrove/">My radio interview</a> with Perth's community radio station RTRFM</li>
 	<li>Blog post <a href="http://librariessa.blogspot.com.au/2016/03/trove-library-communitys-greatest.html">TROVE: the library community's greatest contribution at risk</a> by <a href="http://twitter.com/57GPS">@57GPS</a></li>
-	<li>Blog post <a href="http://blog.wags.org.au/index.php/opinions/46-what-is-it-about-trove">What is it about Trove?</a> by Chris Loudon</li>
+	<li>Blog post <a href="http://blog.wags.org.au/index.php/opinions/46-what-is-it-about-trove">What is it about Trove?</a> by Chris Loudon, WAGS</li>
+	<li>Blog post <a href="http://melbourneartnetwork.com.au/2016/03/04/threats-to-funding-of-the-national-library-of-australias-trove/">Threats to funding of the National Library of Australia’s ‘Trove’</a> by Katrina Grant, Melbourne Art Network</li>
+	<li>Blog post <a href="http://airminded.org/2016/03/05/airships-against-the-mad-mullah-or-fundtrove/">Airships against the Mad Mullah; or, #fundTrove</a> by <a href="http://twitter.com/airminded">@airminded</a></li>
+	<li>Blog post <a href="https://hatfulofhistory.wordpress.com/2016/03/05/another-reason-to-fundtrove-communist-party-of-australia-material-now-digitised/">Another reason to #FundTrove: Communist Party of Australia material now digitised</a> by <a href="http://twitter.com/hatfulofhistory">@hatfulofhistory</a></li>
 </ul>
 &nbsp;
