@@ -28,7 +28,7 @@ doi:
 github:
   - ""
 tmac_last_id:
-  - ""
+  - "706812736064192513"
 ---
 I’d just arrived home on Monday evening when a tweet from the local ABC radio station <a href="https://twitter.com/666canberra/status/701649786043129856">appeared in my stream</a>: ‘NOW: @nlagovau informs its staff of budget cuts’. An all-staff email describing the impact of continuing government funding cuts on the Library had become public – it was not good news.
 
@@ -104,5 +104,8 @@ Latest #fundTrove news &amp; posts:
 	<li>Blog post <a href="http://melbourneartnetwork.com.au/2016/03/04/threats-to-funding-of-the-national-library-of-australias-trove/">Threats to funding of the National Library of Australia’s ‘Trove’</a> by Katrina Grant, Melbourne Art Network</li>
 	<li>Blog post <a href="http://airminded.org/2016/03/05/airships-against-the-mad-mullah-or-fundtrove/">Airships against the Mad Mullah; or, #fundTrove</a> by <a href="http://twitter.com/airminded">@airminded</a></li>
 	<li>Blog post <a href="https://hatfulofhistory.wordpress.com/2016/03/05/another-reason-to-fundtrove-communist-party-of-australia-material-now-digitised/">Another reason to #FundTrove: Communist Party of Australia material now digitised</a> by <a href="http://twitter.com/hatfulofhistory">@hatfulofhistory</a></li>
+	<li>Statement by <a href="http://www.archivists.org.au/news/glam-peak-bodies-statement-of-support-for-trove">peak GLAM organisations</a> in support of Trove</li>
+	<li>Statement by the <a href="http://www.humanities.org.au/News/News/tabid/109/articleType/ArticleView/articleId/1998/Critical-research-infrastructure-at-risk.aspx">Australian Academy of the Humanities</a> in support of Trove</li>
+	<li><a href="https://radio.abc.net.au/programitem/pgwdVYoY1G?play=true">My radio interview</a> with Phillip Adams and Peter FitzSimon on ABCRN Late Night Live</li>
 </ul>
 &nbsp;
