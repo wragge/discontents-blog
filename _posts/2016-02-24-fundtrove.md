@@ -97,6 +97,7 @@ In the media:
 	<li><a href="http://www.campusreview.com.au/2016/03/budget-cuts-threaten-national-librarys-humanities-resource-trove/">Budget cuts threaten National Library’s online Trove</a>, by Patrick Avenell in <em>Campus Review</em></li>
 	<li><a href="http://www.theaustralian.com.au/sport/opinion/gideon-haigh/the-researchers-treasure-trove-is-under-threat/news-story/5655c942c1bad60a1b6470abc1a8eea3">The researchers' treasure, Trove, is under threat</a> by Gideon Haigh in <em>The Australian</em></li>
 	<li><a href="http://www.canberratimes.com.au/act-news/australian-and-international-arts-institutions-researchers-throw-support-behind-trove-20160307-gncn97.html">Australian and international arts institutions, researchers throw support behind Trove</a> by Alexandra Back in <em>The Canberra Times</em></li>
+	<li><a href="http://www.abc.net.au/news/2016-03-12/future-of-national-librarys-trove-online-database-in-doubt/7242182">Trove online database's future in doubt due to National Library funding cuts</a> on <a href="http://twitter.com/abcnewscanberra">@ABCNewsCanberra</a></li>
 </ul>
 Statements of support:
 <ul>
