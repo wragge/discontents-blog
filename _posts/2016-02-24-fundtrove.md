@@ -101,7 +101,10 @@ In the media:
 </ul>
 Statements of support:
 <ul>
-	<li>MP Tim Watts' <a href="https://www.facebook.com/timwattsmp/videos/1000001233369095/">speech in Federal Parliament</a> on Trove</li>
+	<li>Statement by <a href="http://www.actgreens.org.au/cuts_to_cultural_institutions_must_be_reversed">The Greens</a>, 23 February 2016</li>
+	<li>Statement in parliament by <a href="http://www.openaustralia.org.au/debate/?id=2016-02-24.41.2">Gai Brodtmann MP</a> (ALP), 24 February 2016</li>
+	<li>Statement in parliament by <a href="http://www.openaustralia.org.au/debate/?id=2016-02-29.44.2">Tim Watts MP</a> (ALP), 29 February 2016 -- see also the <a href="https://www.facebook.com/timwattsmp/videos/1000001233369095/">video on Facebook</a></li>
+	<li>Statement in parliament by <a href="http://www.openaustralia.org.au/debates/?id=2016-03-03.125.1#g125.2">Gai Brodtmann MP</a> (ALP), 3 March 2016</li>
 	<li>Statement by <a href="http://www.archivists.org.au/news/glam-peak-bodies-statement-of-support-for-trove">peak GLAM organisations</a> in support of Trove</li>
 	<li>Statement by the <a href="http://www.humanities.org.au/News/News/tabid/109/articleType/ArticleView/articleId/1998/Critical-research-infrastructure-at-risk.aspx">Australian Academy of the Humanities</a> in support of Trove</li>
 	<li>Open letter from the <a href="http://www.phavic.org.au/news-items/2016/3/9/7n98dp2lvxefaz5gp8dpfzzgecoce1">Professional Historians Association (Victoria)</a> to Senator Mitch Fifield</li>
