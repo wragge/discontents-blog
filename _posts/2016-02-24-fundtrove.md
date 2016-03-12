@@ -28,7 +28,7 @@ doi:
 github:
   - ""
 tmac_last_id:
-  - "706812736064192513"
+  - ""
 ---
 I’d just arrived home on Monday evening when a tweet from the local ABC radio station <a href="https://twitter.com/666canberra/status/701649786043129856">appeared in my stream</a>: ‘NOW: @nlagovau informs its staff of budget cuts’. An all-staff email describing the impact of continuing government funding cuts on the Library had become public – it was not good news.
 
@@ -68,9 +68,10 @@ So #fundTrove.
 
 <hr />
 
-Things you can do right now:
+<h4>Things you can do right now</h4>
 <ul>
 	<li>Tweet or post about the value of Trove using the hashtag <a href="https://twitter.com/hashtag/fundtrove?f=tweets&amp;vertical=default&amp;src=hash">#fundTrove</a>.</li>
+	<li>Like the <a href="https://www.facebook.com/fundtrove/">#fundTrove FaceBook page</a></li>
 	<li>Write to Senator Fifield (or other government members) – the folks at the eScholarship Research Centre at Melbourne University have already <a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">drafted a sample letter</a>.</li>
 	<li>Sign one or all of these petitions:
 <ul>
@@ -83,29 +84,44 @@ Things you can do right now:
 
 <hr />
 
-Latest #fundTrove news &amp; posts:
+<h4>#fundTrove news &amp; posts</h4>
+<strong>Latest updates will be posted on the <a href="https://www.facebook.com/fundtrove/">#fundTrove Facebook page</a>!</strong>
+
+In the media:
 <ul>
-	<li><strong>Latest updates will be posted on the <a href="https://www.facebook.com/fundtrove/">#fundTrove Facebook page</a>!</strong></li>
-	<li>Blog post <a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">#FundTROVE</a> by <a href="http://twitter.com/annelie_de">@annelie_de</a></li>
-	<li>Blog post <a href="https://cassmob.wordpress.com/2016/02/25/on-the-importance-of-trove/">On the importance of Trove</a> by <a href="http://twitter.com/@cassmob">@cassmob</a></li>
-	<li>Blog post <a href="https://ancestrysearch.wordpress.com/2016/02/25/fundtrove/">#FundTrove</a> by <a href="http://twitter.com/jessb3">@jessb3</a></li>
-	<li>Blog post <a href="http://jayeweatherburn.com/2016/02/25/fundtrove/">#fundTrove</a> by <a href="http://twitter.com/jayechats">@jayechats</a></li>
 	<li><a href="https://theconversation.com/treasure-trove-why-defunding-trove-leaves-australia-poorer-55217">Treasure Trove: why defunding Trove leaves Australia poorer</a> by <a href="http://twitter.com/mikejonesmelb">@mikejonesmelb</a> &amp; <a href="http://twitter.com/bestqualitycrab">@bestqualitycrab</a> in <em>The Conversation</em></li>
-	<li>Blog post <a href="https://inthemailbox.wordpress.com/2016/02/26/an-open-letter-to-senator-fifield/">An open letter to Senator Fifield </a>by <a href="http://twitter.com/morethangrass">@morethangrass</a></li>
-	<li>Blog post <a href="https://learnearnandreturn.wordpress.com/2016/02/27/a-treasure-trove-of-newspapers/">A Treasure Trove of Newspapers</a> by <a href="http://twitter.com/diamond_marion">@diamond_marion</a></li>
-	<li>MP Tim Watts' <a href="https://www.facebook.com/timwattsmp/videos/1000001233369095/">speech in Federal Parliament</a> on Trove</li>
 	<li><a href="http://www.abc.net.au/news/2016-02-29/thackrah-turnbull,-cuts-and-the-culture-of-forgetting/7206890">Turnbull, cuts and the culture of forgetting</a> by <a href="http://twitter.com/AndrewThackrah">@AndrewThackrah</a> on <em>The Drum</em></li>
-	<li>Blog post <a href="http://www.jessicawhite.com.au/ladyredjess/2016/2/29/fundtrove">#fundTrove</a> by <a href="http://twitter.com/ladyredjess">@ladyredjess</a></li>
-	<li>Blog post <a href="http://peter.neish.net/funding-smart-infrastructure/">Funding smart infrastructure</a> by <a href="http://twitter.com/peterneish">@peterneish</a></li>
-	<li>Blog post <a href="https://karinspeedy.wordpress.com/2016/03/01/trove-beyond-borders/">Trove beyond borders</a> by <a href="http:////twitter.com/KarinESpeedy">@KarinESpeedy</a></li>
 	<li><a href="https://rtrfm.com.au/story/fundtrove/">My radio interview</a> with Perth's community radio station RTRFM</li>
-	<li>Blog post <a href="http://librariessa.blogspot.com.au/2016/03/trove-library-communitys-greatest.html">TROVE: the library community's greatest contribution at risk</a> by <a href="http://twitter.com/57GPS">@57GPS</a></li>
-	<li>Blog post <a href="http://blog.wags.org.au/index.php/opinions/46-what-is-it-about-trove">What is it about Trove?</a> by Chris Loudon, WAGS</li>
-	<li>Blog post <a href="http://melbourneartnetwork.com.au/2016/03/04/threats-to-funding-of-the-national-library-of-australias-trove/">Threats to funding of the National Library of Australia’s ‘Trove’</a> by Katrina Grant, Melbourne Art Network</li>
-	<li>Blog post <a href="http://airminded.org/2016/03/05/airships-against-the-mad-mullah-or-fundtrove/">Airships against the Mad Mullah; or, #fundTrove</a> by <a href="http://twitter.com/airminded">@airminded</a></li>
-	<li>Blog post <a href="https://hatfulofhistory.wordpress.com/2016/03/05/another-reason-to-fundtrove-communist-party-of-australia-material-now-digitised/">Another reason to #FundTrove: Communist Party of Australia material now digitised</a> by <a href="http://twitter.com/hatfulofhistory">@hatfulofhistory</a></li>
+	<li><a href="https://radio.abc.net.au/programitem/pgwdVYoY1G?play=true">My radio interview</a> with Phillip Adams and Peter FitzSimon on ABCRN Late Night Live</li>
+	<li><a href="https://youtu.be/av0iOt7xuT4">Video except</a> of Peter FitzSimon on ABCRN Late Night Live</li>
+	<li><a href="http://www.campusreview.com.au/2016/03/budget-cuts-threaten-national-librarys-humanities-resource-trove/">Budget cuts threaten National Library’s online Trove</a>, by Patrick Avenell in <em>Campus Review</em></li>
+	<li><a href="http://www.theaustralian.com.au/sport/opinion/gideon-haigh/the-researchers-treasure-trove-is-under-threat/news-story/5655c942c1bad60a1b6470abc1a8eea3">The researchers' treasure, Trove, is under threat</a> by Gideon Haigh in <em>The Australian</em></li>
+	<li><a href="http://www.canberratimes.com.au/act-news/australian-and-international-arts-institutions-researchers-throw-support-behind-trove-20160307-gncn97.html">Australian and international arts institutions, researchers throw support behind Trove</a> by Alexandra Back in <em>The Canberra Times</em></li>
+</ul>
+Statements of support:
+<ul>
+	<li>MP Tim Watts' <a href="https://www.facebook.com/timwattsmp/videos/1000001233369095/">speech in Federal Parliament</a> on Trove</li>
 	<li>Statement by <a href="http://www.archivists.org.au/news/glam-peak-bodies-statement-of-support-for-trove">peak GLAM organisations</a> in support of Trove</li>
 	<li>Statement by the <a href="http://www.humanities.org.au/News/News/tabid/109/articleType/ArticleView/articleId/1998/Critical-research-infrastructure-at-risk.aspx">Australian Academy of the Humanities</a> in support of Trove</li>
-	<li><a href="https://radio.abc.net.au/programitem/pgwdVYoY1G?play=true">My radio interview</a> with Phillip Adams and Peter FitzSimon on ABCRN Late Night Live</li>
+	<li>Open letter from the <a href="http://www.phavic.org.au/news-items/2016/3/9/7n98dp2lvxefaz5gp8dpfzzgecoce1">Professional Historians Association (Victoria)</a> to Senator Mitch Fifield</li>
+	<li>Open letter from the <a href="http://www.historycouncilnsw.org.au/news/post/advocacy-funding-cuts/">History Council of NSW</a> to Senator Mitch Fifield</li>
+	<li>Open letter from the <a href="http://www.theaha.org.au/aha-criticises-efficiency-dividends/">Australian Historical Association</a> to Prime Minister Malcolm Turnbull (and others)</li>
 </ul>
-&nbsp;
+Blog posts:
+<ul>
+	<li><a href="https://anneliedevilliers.wordpress.com/2016/02/23/fundtrove/">#FundTROVE</a> by <a href="http://twitter.com/annelie_de">@annelie_de</a></li>
+	<li><a href="https://cassmob.wordpress.com/2016/02/25/on-the-importance-of-trove/">On the importance of Trove</a> by <a href="http://twitter.com/@cassmob">@cassmob</a></li>
+	<li><a href="https://ancestrysearch.wordpress.com/2016/02/25/fundtrove/">#FundTrove</a> by <a href="http://twitter.com/jessb3">@jessb3</a></li>
+	<li><a href="http://jayeweatherburn.com/2016/02/25/fundtrove/">#fundTrove</a> by <a href="http://twitter.com/jayechats">@jayechats</a></li>
+	<li><a href="https://inthemailbox.wordpress.com/2016/02/26/an-open-letter-to-senator-fifield/">An open letter to Senator Fifield </a>by <a href="http://twitter.com/morethangrass">@morethangrass</a></li>
+	<li><a href="https://learnearnandreturn.wordpress.com/2016/02/27/a-treasure-trove-of-newspapers/">A Treasure Trove of Newspapers</a> by <a href="http://twitter.com/diamond_marion">@diamond_marion</a></li>
+	<li><a href="http://www.jessicawhite.com.au/ladyredjess/2016/2/29/fundtrove">#fundTrove</a> by <a href="http://twitter.com/ladyredjess">@ladyredjess</a></li>
+	<li><a href="http://peter.neish.net/funding-smart-infrastructure/">Funding smart infrastructure</a> by <a href="http://twitter.com/peterneish">@peterneish</a></li>
+	<li><a href="https://karinspeedy.wordpress.com/2016/03/01/trove-beyond-borders/">Trove beyond borders</a> by <a href="http:////twitter.com/KarinESpeedy">@KarinESpeedy</a></li>
+	<li><a href="http://librariessa.blogspot.com.au/2016/03/trove-library-communitys-greatest.html">TROVE: the library community's greatest contribution at risk</a> by <a href="http://twitter.com/57GPS">@57GPS</a></li>
+	<li><a href="http://blog.wags.org.au/index.php/opinions/46-what-is-it-about-trove">What is it about Trove?</a> by Chris Loudon, WAGS</li>
+	<li><a href="http://melbourneartnetwork.com.au/2016/03/04/threats-to-funding-of-the-national-library-of-australias-trove/">Threats to funding of the National Library of Australia’s ‘Trove’</a> by Katrina Grant, Melbourne Art Network</li>
+	<li><a href="http://airminded.org/2016/03/05/airships-against-the-mad-mullah-or-fundtrove/">Airships against the Mad Mullah; or, #fundTrove</a> by <a href="http://twitter.com/airminded">@airminded</a></li>
+	<li><a href="https://hatfulofhistory.wordpress.com/2016/03/05/another-reason-to-fundtrove-communist-party-of-australia-material-now-digitised/">Another reason to #FundTrove: Communist Party of Australia material now digitised</a> by <a href="http://twitter.com/hatfulofhistory">@hatfulofhistory</a></li>
+	<li><a href="http://honesthistory.net.au/wp/four-reasons-why-the-national-library-of-australia-is-so-valuable/">Four reasons why the National Library of Australia is so valuable to Australia and Australians</a> by David Stephens at Honest History</li>
+</ul>
