@@ -98,6 +98,7 @@ In the media:
 	<li><a href="http://www.theaustralian.com.au/sport/opinion/gideon-haigh/the-researchers-treasure-trove-is-under-threat/news-story/5655c942c1bad60a1b6470abc1a8eea3">The researchers' treasure, Trove, is under threat</a> by Gideon Haigh in <em>The Australian</em></li>
 	<li><a href="http://www.canberratimes.com.au/act-news/australian-and-international-arts-institutions-researchers-throw-support-behind-trove-20160307-gncn97.html">Australian and international arts institutions, researchers throw support behind Trove</a> by Alexandra Back in <em>The Canberra Times</em></li>
 	<li><a href="http://www.abc.net.au/news/2016-03-12/future-of-national-librarys-trove-online-database-in-doubt/7242182">Trove online database's future in doubt due to National Library funding cuts</a> on <a href="http://twitter.com/abcnewscanberra">@ABCNewsCanberra</a></li>
+	<li><a href="http://www.smh.com.au/national/education/cuts-to-national-library-funding-will-hurt-researchers-from-all-walks-of-life-20160310-gnfbb4.html">Cuts to National Library funding will hurt researchers from all walks of life</a> by Erica Cervini (<a href="http://twitter.com/thirddegreeblog">@thirddegreeblog</a>) in the <em>Sydney Morning Herald</em></li>
 </ul>
 Statements of support:
 <ul>
