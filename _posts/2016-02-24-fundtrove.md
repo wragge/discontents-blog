@@ -132,4 +132,5 @@ Blog posts:
 	<li><a href="http://honesthistory.net.au/wp/four-reasons-why-the-national-library-of-australia-is-so-valuable/">Four reasons why the National Library of Australia is so valuable to Australia and Australians</a> by David Stephens at Honest History</li>
 	<li><a href="http://bobwords.com.au/guarding-treasure-trove/">Guarding the treasure trove</a> by Bob Wilson at Friday on My Mind</li>
 	<li><a href="https://robbiesspot.wordpress.com/2016/03/12/teaching-and-troving/">Teaching and Troving</a> by <a href="http://twitter.com/CowPaddock">@CowPaddock</a></li>
+	<li><a href="http://whisperinggums.com/2016/03/14/monday-musings-on-australian-literature-save-trove/">Monday musings on Australian literature: Save Trove</a> by <a href="http://twitter.com/whisperinggums">@whisperinggums</a></li>
 </ul>
