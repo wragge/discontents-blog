@@ -92,8 +92,8 @@ In the media:
 	<li><a href="https://theconversation.com/treasure-trove-why-defunding-trove-leaves-australia-poorer-55217">Treasure Trove: why defunding Trove leaves Australia poorer</a> by <a href="http://twitter.com/mikejonesmelb">@mikejonesmelb</a> &amp; <a href="http://twitter.com/bestqualitycrab">@bestqualitycrab</a> in <em>The Conversation</em></li>
 	<li><a href="http://www.abc.net.au/news/2016-02-29/thackrah-turnbull,-cuts-and-the-culture-of-forgetting/7206890">Turnbull, cuts and the culture of forgetting</a> by <a href="http://twitter.com/AndrewThackrah">@AndrewThackrah</a> on <em>The Drum</em></li>
 	<li><a href="https://rtrfm.com.au/story/fundtrove/">My radio interview</a> with Perth's community radio station RTRFM</li>
-	<li><a href="https://radio.abc.net.au/programitem/pgwdVYoY1G?play=true">My radio interview</a> with Phillip Adams and Peter FitzSimon on ABCRN Late Night Live</li>
-	<li><a href="https://youtu.be/av0iOt7xuT4">Video except</a> of Peter FitzSimon on ABCRN Late Night Live</li>
+	<li><a href="https://radio.abc.net.au/programitem/pgwdVYoY1G?play=true">My radio interview</a> with Phillip Adams and Peter FitzSimons on ABCRN Late Night Live</li>
+	<li><a href="https://youtu.be/av0iOt7xuT4">Video except</a> of Peter FitzSimons on ABCRN Late Night Live</li>
 	<li><a href="http://www.campusreview.com.au/2016/03/budget-cuts-threaten-national-librarys-humanities-resource-trove/">Budget cuts threaten National Library’s online Trove</a>, by Patrick Avenell in <em>Campus Review</em></li>
 	<li><a href="http://www.theaustralian.com.au/sport/opinion/gideon-haigh/the-researchers-treasure-trove-is-under-threat/news-story/5655c942c1bad60a1b6470abc1a8eea3">The researchers' treasure, Trove, is under threat</a> by Gideon Haigh in <em>The Australian</em></li>
 	<li><a href="http://www.canberratimes.com.au/act-news/australian-and-international-arts-institutions-researchers-throw-support-behind-trove-20160307-gncn97.html">Australian and international arts institutions, researchers throw support behind Trove</a> by Alexandra Back in <em>The Canberra Times</em></li>
@@ -112,6 +112,7 @@ Statements of support:
 	<li>Open letter from the <a href="http://www.phavic.org.au/news-items/2016/3/9/7n98dp2lvxefaz5gp8dpfzzgecoce1">Professional Historians Association (Victoria)</a> to Senator Mitch Fifield</li>
 	<li>Open letter from the <a href="http://www.historycouncilnsw.org.au/news/post/advocacy-funding-cuts/">History Council of NSW</a> to Senator Mitch Fifield</li>
 	<li>Open letter from the <a href="http://www.theaha.org.au/aha-criticises-efficiency-dividends/">Australian Historical Association</a> to Prime Minister Malcolm Turnbull (and others)</li>
+	<li>Statement by ALIA, NSLA &amp; MA, <a href="https://www.alia.org.au/peak-bodies-advocate-trove">Peak bodies call on infrastructure minister to support Trove</a></li>
 </ul>
 Blog posts:
 <ul>
