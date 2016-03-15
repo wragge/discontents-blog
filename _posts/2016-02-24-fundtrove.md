@@ -100,6 +100,7 @@ In the media:
 	<li><a href="http://www.abc.net.au/news/2016-03-12/future-of-national-librarys-trove-online-database-in-doubt/7242182">Trove online database's future in doubt due to National Library funding cuts</a> on <a href="http://twitter.com/abcnewscanberra">@ABCNewsCanberra</a></li>
 	<li><a href="http://www.smh.com.au/national/education/cuts-to-national-library-funding-will-hurt-researchers-from-all-walks-of-life-20160310-gnfbb4.html">Cuts to National Library funding will hurt researchers from all walks of life</a> by Erica Cervini (<a href="http://twitter.com/thirddegreeblog">@thirddegreeblog</a>) in the <em>Sydney Morning Herald</em></li>
 	<li><a href="http://www.theguardian.com/books/2016/mar/14/national-librarys-trove-a-great-digital-democracy-under-threat">National Library's Trove: a great digital democracy under threat</a> by Paul Daley (<a href="http://twitter.com/ppdaley">@ppdaley</a>) in <em>The Guardian</em> (Australia)</li>
+	<li><a href="https://overland.org.au/2016/03/trove-and-the-case-for-radical-openness/">Trove and the case for radical openness</a> by Hugh Rundle (@hughrundle) in <em>Overland</em></li>
 </ul>
 Statements of support:
 <ul>
@@ -113,6 +114,7 @@ Statements of support:
 	<li>Open letter from the <a href="http://www.historycouncilnsw.org.au/news/post/advocacy-funding-cuts/">History Council of NSW</a> to Senator Mitch Fifield</li>
 	<li>Open letter from the <a href="http://www.theaha.org.au/aha-criticises-efficiency-dividends/">Australian Historical Association</a> to Prime Minister Malcolm Turnbull (and others)</li>
 	<li>Statement by ALIA, NSLA &amp; MA, <a href="https://www.alia.org.au/peak-bodies-advocate-trove">Peak bodies call on infrastructure minister to support Trove</a></li>
+	<li>Statement by the <a href="https://www.facebook.com/CHASSAustralia/posts/1034664969928632">Council for the Humanities, Arts and Social Sciences</a></li>
 </ul>
 Blog posts:
 <ul>
