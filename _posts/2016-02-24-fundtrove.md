@@ -137,4 +137,5 @@ Blog posts:
 	<li><a href="https://robbiesspot.wordpress.com/2016/03/12/teaching-and-troving/">Teaching and Troving</a> by <a href="http://twitter.com/CowPaddock">@CowPaddock</a></li>
 	<li><a href="http://www.jackiefrench.com/#!Save-Trove/w0hq8/56e63ad00cf2546dc0dbc57f">Fund Trove</a> by Jackie French</li>
 	<li><a href="http://whisperinggums.com/2016/03/14/monday-musings-on-australian-literature-save-trove/">Monday musings on Australian literature: Save Trove</a> by <a href="http://twitter.com/whisperinggums">@whisperinggums</a></li>
+	<li><a href="http://linksinachain.blogspot.com.au/2016/03/i-love-trove-ask-anyone-who-knows-me-i.html">I Love Trove! (Ask anyone who knows me, I say it all the time!)</a> by <a href="http://twitter.com/linksinachain">@linksinachain</a></li>
 </ul>
