@@ -138,4 +138,5 @@ Blog posts:
 	<li><a href="http://www.jackiefrench.com/#!Save-Trove/w0hq8/56e63ad00cf2546dc0dbc57f">Fund Trove</a> by Jackie French</li>
 	<li><a href="http://whisperinggums.com/2016/03/14/monday-musings-on-australian-literature-save-trove/">Monday musings on Australian literature: Save Trove</a> by <a href="http://twitter.com/whisperinggums">@whisperinggums</a></li>
 	<li><a href="http://linksinachain.blogspot.com.au/2016/03/i-love-trove-ask-anyone-who-knows-me-i.html">I Love Trove! (Ask anyone who knows me, I say it all the time!)</a> by <a href="http://twitter.com/linksinachain">@linksinachain</a></li>
+	<li><a href="https://musicaustralia.org.au/2016/03/one-cut-too-many-how-much-more-efficient-can-our-national-culture-get/">One cut too many – how much more efficient can our national culture get?</a> by Chris Bowen at Music Australia</li>
 </ul>
