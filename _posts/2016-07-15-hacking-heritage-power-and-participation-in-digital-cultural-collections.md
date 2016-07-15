@@ -29,7 +29,7 @@ doi:
 github:
   - ""
 ---
-<em>Presented at the DigitalGlam Symposium, University of Melbourne, 15 July 2016.
+<em>Presented at the DigitalGLAM Symposium, University of Melbourne, 15 July 2016.
 Play with <a href="http://wragge.github.io/digitalglam-2016/">the slides</a>.</em>
 
 <hr />
