@@ -29,7 +29,7 @@ doi:
 github:
   - ""
 tmac_last_id:
-  - null
+  - ""
 ---
 <em>Keynote presented at <a href="https://www.archivists.org.au/learning-publications/2016-conference">Forging Links</a>, the Annual Conference of the Australian Society of Archivists, Parramatta, 19 October 2016.</em>
 
@@ -173,7 +173,7 @@ I’ve started adding information about the size and position of the redactions 
 
 Once the data processing is completed you’ll be able to filter files by the amount of area blacked out, or the total number of redactions. Many more opportunities to see what you can’t see.
 
-<strong>Experiment D</strong> was an attempt to build a composite image of all the redactions to visualise what parts of a page were most likely to be be removed – something like a heatmap. It sort of worked, but by the time I’d added all the redactions I had nothing but a very large black blob.
+<strong>Experiment D</strong> was an attempt to build a composite image of all the redactions to visualise what parts of a page were most likely to be be removed – something like a heatmap. It <a href="https://www.dropbox.com/sh/m58i7u4q3xca5bi/AADv2obFTq73TjY8naGcA9h-a?dl=0">sort of worked</a>, but by the time I’d added all the redactions I had nothing but a very large black blob.
 
 https://twitter.com/wragge/status/784895925370052609
 
