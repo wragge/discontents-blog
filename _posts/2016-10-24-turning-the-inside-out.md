@@ -28,10 +28,12 @@ doi:
   - ""
 github:
   - ""
+tmac_last_id:
+  - null
 ---
 <em>Keynote presented at <a href="https://www.archivists.org.au/learning-publications/2016-conference">Forging Links</a>, the Annual Conference of the Australian Society of Archivists, Parramatta, 19 October 2016.</em>
 
-Please cite as: Tim Sherratt, 'Turning the inside out', presented at the Australian Society of Archivists Annual Conference, Parramatta, 2016.
+Please cite as: Tim Sherratt, 'Turning the inside out', presented at the Australian Society of Archivists Annual Conference, Parramatta, 2016, &lt;<a href="https://dx.doi.org/10.6084/m9.figshare.4055013.v1">https://dx.doi.org/10.6084/m9.figshare.4055013.v1</a>&gt;.
 
 <hr />
 
